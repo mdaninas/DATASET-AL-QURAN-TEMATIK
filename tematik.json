@@ -370,10 +370,557 @@
           ]
         }
       ],
-      "ALLAH SEBAGAI PENCIPTA": [],
-      "ALLAH ADALAH PEMIUK DAN RAJA ALAM RAYA DAN HARI PEMBALASAN": [],
-      "SIFAT-SIFAT ALLAH": [],
-      "KEKUASAAN ALLAH": [],
+      "ALLAH SEBAGAI PENCIPTA": [
+        {
+          "ALLAH PENCIPTA SEGALA SESUATU": [
+            { "surah": 6, "ayat": 102 },
+            { "surah": 13, "ayat": 16 },
+            { "surah": 39, "ayat": 62 },
+            { "surah": 40, "ayat": 62 }
+          ]
+        },
+        {
+          "ALLAH PENCIPTA LANGIT DAN BUMI": [
+            { "surah": 6, "ayat": 1 },
+            { "surah": 6, "ayat": 73 },
+            { "surah": 7, "ayat": 54 },
+            { "surah": 10, "ayat": 3 },
+            { "surah": 11, "ayat": 7 },
+            { "surah": 14, "ayat": 19 },
+            { "surah": 14, "ayat": 32 },
+            { "surah": 16, "ayat": 3 },
+            { "surah": 17, "ayat": 99 },
+            { "surah": 20, "ayat": 4 },
+            { "surah": 25, "ayat": 59 },
+            { "surah": 29, "ayat": 61 },
+            { "surah": 30, "ayat": 22 },
+            { "surah": 31, "ayat": 10 },
+            { "surah": 31, "ayat": 25 },
+            { "surah": 32, "ayat": 4 },
+            { "surah": 36, "ayat": 81 },
+            { "surah": 39, "ayat": 5 },
+            { "surah": 39, "ayat": 38 },
+            { "surah": 42, "ayat": 29 },
+            { "surah": 43, "ayat": 9 },
+            { "surah": 46, "ayat": 33 },
+            { "surah": 57, "ayat": 4 },
+            { "surah": 64, "ayat": 3 }
+          ]
+        },
+        { "ALLAH MENCIPTAKAN BUMI DALAM 2 HARI": [{ "surah": 41, "ayat": 9 }] },
+        {
+          "ALLAH MENCIPTAKAN LANGIT DAN BUMI DALAM 6 HARI": [
+            { "surah": 7, "ayat": 54 },
+            { "surah": 10, "ayat": 3 },
+            { "surah": 11, "ayat": 7 },
+            { "surah": 25, "ayat": 59 },
+            { "surah": 32, "ayat": 4 },
+            { "surah": 50, "ayat": 38 },
+            { "surah": 57, "ayat": 4 }
+          ]
+        },
+        {
+          "ALLAH PENCIPTA MANUSIA": [
+            {
+              "ALLAH PENCIPTA MANUSIA": [
+                { "surah": 15, "ayat": 26 },
+                { "surah": 15, "ayat": 28 },
+                { "surah": 16, "ayat": 4 },
+                { "surah": 19, "ayat": 67 },
+                { "surah": 23, "ayat": 12 },
+                { "surah": 32, "ayat": 7 },
+                { "surah": 36, "ayat": 77 },
+                { "surah": 38, "ayat": 71 },
+                { "surah": 50, "ayat": 16 },
+                { "surah": 55, "ayat": 3 },
+                { "surah": 55, "ayat": 14 },
+                { "surah": 64, "ayat": 2 },
+                { "surah": 76, "ayat": 2 },
+                { "surah": 90, "ayat": 4 }
+              ]
+            },
+            {
+              "MENCIPTAKAN MANUSIA DARI SOLSOL": [
+                { "surah": 15, "ayat": 26 },
+                { "surah": 15, "ayat": 28 },
+                { "surah": 15, "ayat": 33 },
+                { "surah": 55, "ayat": 14 }
+              ]
+            },
+            {
+              "MENCIPTAKAN MANUSIA DARI HAMA'IM MASNUN": [
+                { "surah": 15, "ayat": 26 },
+                { "surah": 15, "ayat": 28 },
+                { "surah": 15, "ayat": 33 }
+              ]
+            },
+            {
+              "MENCIPTAKAN MANUSIA DARI TANAH": [
+                { "surah": 6, "ayat": 2 },
+                { "surah": 7, "ayat": 12 },
+                { "surah": 23, "ayat": 12 },
+                { "surah": 32, "ayat": 7 },
+                { "surah": 37, "ayat": 11 },
+                { "surah": 38, "ayat": 71 },
+                { "surah": 38, "ayat": 76 }
+              ]
+            },
+            {
+              "MENCIPTAKAN MANUSIA DARI NUTFAH": [
+                { "surah": 16, "ayat": 4 },
+                { "surah": 18, "ayat": 37 },
+                { "surah": 22, "ayat": 5 },
+                { "surah": 23, "ayat": 13 },
+                { "surah": 35, "ayat": 11 },
+                { "surah": 36, "ayat": 77 },
+                { "surah": 40, "ayat": 67 },
+                { "surah": 53, "ayat": 46 },
+                { "surah": 75, "ayat": 37 },
+                { "surah": 76, "ayat": 2 },
+                { "surah": 80, "ayat": 19 }
+              ]
+            },
+            {
+              "MENCIPTAKAN MANUSIA DARI AIR YANG KENTAL": [
+                { "surah": 86, "ayat": 5 },
+                { "surah": 86, "ayat": 6 }
+              ]
+            },
+            { "MENCIPTAKAN MANUSIA DARI 'ALAQ": [{ "surah": 96, "ayat": 2 }] },
+            {
+              "PROSES PENCIPTAAN MANUSIA": [
+                { "surah": 23, "ayat": 12 },
+                { "surah": 23, "ayat": 13 },
+                { "surah": 23, "ayat": 14 }
+              ]
+            }
+          ]
+        },
+        {
+          "JIKA ALLAH BERTITAH JADI, MAKA JADILAH": [
+            { "surah": 2, "ayat": 117 },
+            { "surah": 3, "ayat": 47 },
+            { "surah": 6, "ayat": 73 },
+            { "surah": 16, "ayat": 40 },
+            { "surah": 19, "ayat": 35 },
+            { "surah": 36, "ayat": 82 },
+            { "surah": 40, "ayat": 68 }
+          ]
+        },
+        {
+          "SEMUA MAKHLUKNYA DICIPTAKAN DENGAN HAK/BENAR/TEPAT": [
+            { "surah": 6, "ayat": 73 },
+            { "surah": 10, "ayat": 5 },
+            { "surah": 14, "ayat": 19 },
+            { "surah": 15, "ayat": 85 },
+            { "surah": 16, "ayat": 3 },
+            { "surah": 30, "ayat": 8 },
+            { "surah": 38, "ayat": 27 },
+            { "surah": 44, "ayat": 38 },
+            { "surah": 44, "ayat": 39 },
+            { "surah": 45, "ayat": 22 },
+            { "surah": 64, "ayat": 3 }
+          ]
+        },
+        {
+          "KESEMPURNAAN CIPTAAN ALLAH SEBAGAI BUKTI KETUHANAN-NYA": [
+            {
+              "PENCIPTA KEHIDUPAN DAN KEMATIAN": [
+                { "surah": 2, "ayat": 28 },
+                { "surah": 3, "ayat": 156 },
+                { "surah": 9, "ayat": 116 },
+                { "surah": 10, "ayat": 56 },
+                { "surah": 15, "ayat": 23 },
+                { "surah": 23, "ayat": 80 },
+                { "surah": 26, "ayat": 78 },
+                { "surah": 26, "ayat": 79 },
+                { "surah": 26, "ayat": 80 },
+                { "surah": 26, "ayat": 81 },
+                { "surah": 30, "ayat": 19 },
+                { "surah": 40, "ayat": 68 },
+                { "surah": 44, "ayat": 8 },
+                { "surah": 50, "ayat": 43 },
+                { "surah": 53, "ayat": 44 },
+                { "surah": 57, "ayat": 2 },
+                { "surah": 67, "ayat": 2 }
+              ]
+            },
+            {
+              "PENCIPTA MAHKLUK BERPASANGAN": [
+                [
+                  { "surah": 4, "ayat": 1 },
+                  { "surah": 7, "ayat": 189 },
+                  { "surah": 11, "ayat": 40 },
+                  { "surah": 20, "ayat": 53 },
+                  { "surah": 22, "ayat": 5 },
+                  { "surah": 26, "ayat": 7 },
+                  { "surah": 30, "ayat": 21 },
+                  { "surah": 31, "ayat": 10 },
+                  { "surah": 31, "ayat": 11 },
+                  { "surah": 35, "ayat": 11 },
+                  { "surah": 36, "ayat": 36 },
+                  { "surah": 39, "ayat": 6 },
+                  { "surah": 42, "ayat": 11 },
+                  { "surah": 43, "ayat": 12 },
+                  { "surah": 50, "ayat": 7 },
+                  { "surah": 51, "ayat": 49 },
+                  { "surah": 53, "ayat": 45 },
+                  { "surah": 53, "ayat": 46 },
+                  { "surah": 75, "ayat": 37 },
+                  { "surah": 75, "ayat": 38 },
+                  { "surah": 75, "ayat": 39 }
+                ]
+              ]
+            },
+            {
+              "CIPTAAN-NYA TANPA CACAT": [
+                { "surah": 2, "ayat": 22 },
+                { "surah": 2, "ayat": 255 },
+                { "surah": 13, "ayat": 2 },
+                { "surah": 13, "ayat": 3 },
+                { "surah": 13, "ayat": 4 },
+                { "surah": 15, "ayat": 16 },
+                { "surah": 15, "ayat": 17 },
+                { "surah": 15, "ayat": 18 },
+                { "surah": 15, "ayat": 19 },
+                { "surah": 21, "ayat": 30 },
+                { "surah": 21, "ayat": 31 },
+                { "surah": 21, "ayat": 32 },
+                { "surah": 22, "ayat": 65 },
+                { "surah": 23, "ayat": 17 },
+                { "surah": 23, "ayat": 18 },
+                { "surah": 51, "ayat": 47 },
+                { "surah": 51, "ayat": 48 },
+                { "surah": 55, "ayat": 7 },
+                { "surah": 55, "ayat": 10 },
+                { "surah": 78, "ayat": 6 },
+                { "surah": 78, "ayat": 7 },
+                { "surah": 78, "ayat": 8 },
+                { "surah": 78, "ayat": 9 },
+                { "surah": 78, "ayat": 10 },
+                { "surah": 78, "ayat": 11 },
+                { "surah": 78, "ayat": 12 },
+                { "surah": 78, "ayat": 13 },
+                { "surah": 78, "ayat": 14 },
+                { "surah": 78, "ayat": 15 },
+                { "surah": 78, "ayat": 16 },
+                { "surah": 79, "ayat": 27 },
+                { "surah": 79, "ayat": 28 },
+                { "surah": 79, "ayat": 29 },
+                { "surah": 79, "ayat": 30 },
+                { "surah": 79, "ayat": 31 },
+                { "surah": 79, "ayat": 32 },
+                { "surah": 86, "ayat": 11 },
+                { "surah": 86, "ayat": 12 },
+                { "surah": 91, "ayat": 1 },
+                { "surah": 91, "ayat": 2 },
+                { "surah": 91, "ayat": 3 },
+                { "surah": 91, "ayat": 4 },
+                { "surah": 91, "ayat": 5 },
+                { "surah": 91, "ayat": 6 },
+                { "surah": 91, "ayat": 8 }
+              ]
+            },
+            { "PENCIPTA DENGAN SEMPURNA": [{ "surah": 87, "ayat": 2 }] }
+          ]
+        },
+        {
+          "AYAT DAN HIKMAH DI BALIK CIPTAAN-NYA": [
+            { "surah": 2, "ayat": 164 },
+            { "surah": 3, "ayat": 190 },
+            { "surah": 3, "ayat": 191 },
+            { "surah": 14, "ayat": 19 },
+            { "surah": 14, "ayat": 32 },
+            { "surah": 16, "ayat": 3 },
+            { "surah": 17, "ayat": 99 },
+            { "surah": 27, "ayat": 60 },
+            { "surah": 29, "ayat": 61 },
+            { "surah": 30, "ayat": 22 },
+            { "surah": 31, "ayat": 10 },
+            { "surah": 31, "ayat": 11 },
+            { "surah": 32, "ayat": 4 },
+            { "surah": 36, "ayat": 81 },
+            { "surah": 39, "ayat": 5 },
+            { "surah": 39, "ayat": 38 },
+            { "surah": 42, "ayat": 29 },
+            { "surah": 43, "ayat": 9 },
+            { "surah": 46, "ayat": 33 },
+            { "surah": 57, "ayat": 4 },
+            { "surah": 64, "ayat": 3 }
+          ]
+        }
+      ],
+      "ALLAH ADALAH PEMIUK DAN RAJA ALAM RAYA DAN HARI PEMBALASAN": [
+        {
+          "PEMILIK LANGIT DAN BUMI": [
+            { "surah": 2, "ayat": 107 },
+            { "surah": 2, "ayat": 284 },
+            { "surah": 3, "ayat": 109 },
+            { "surah": 3, "ayat": 129 },
+            { "surah": 3, "ayat": 189 },
+            { "surah": 4, "ayat": 126 },
+            { "surah": 4, "ayat": 131 },
+            { "surah": 4, "ayat": 132 },
+            { "surah": 4, "ayat": 170 },
+            { "surah": 5, "ayat": 17 },
+            { "surah": 5, "ayat": 18 },
+            { "surah": 5, "ayat": 40 },
+            { "surah": 5, "ayat": 120 },
+            { "surah": 6, "ayat": 12 },
+            { "surah": 7, "ayat": 158 },
+            { "surah": 9, "ayat": 116 },
+            { "surah": 10, "ayat": 55 },
+            { "surah": 10, "ayat": 66 },
+            { "surah": 10, "ayat": 68 },
+            { "surah": 14, "ayat": 2 },
+            { "surah": 16, "ayat": 52 },
+            { "surah": 21, "ayat": 56 },
+            { "surah": 22, "ayat": 64 },
+            { "surah": 23, "ayat": 84 },
+            { "surah": 23, "ayat": 85 },
+            { "surah": 23, "ayat": 86 },
+            { "surah": 23, "ayat": 87 },
+            { "surah": 23, "ayat": 88 },
+            { "surah": 23, "ayat": 89 },
+            { "surah": 24, "ayat": 42 },
+            { "surah": 24, "ayat": 64 },
+            { "surah": 25, "ayat": 2 },
+            { "surah": 25, "ayat": 26 },
+            { "surah": 26, "ayat": 23 },
+            { "surah": 26, "ayat": 24 },
+            { "surah": 30, "ayat": 6 },
+            { "surah": 31, "ayat": 26 },
+            { "surah": 34, "ayat": 1 },
+            { "surah": 35, "ayat": 13 },
+            { "surah": 36, "ayat": 83 },
+            { "surah": 37, "ayat": 5 },
+            { "surah": 39, "ayat": 6 },
+            { "surah": 39, "ayat": 44 },
+            { "surah": 39, "ayat": 63 },
+            { "surah": 40, "ayat": 16 },
+            { "surah": 42, "ayat": 4 },
+            { "surah": 42, "ayat": 49 },
+            { "surah": 42, "ayat": 53 },
+            { "surah": 43, "ayat": 82 },
+            { "surah": 43, "ayat": 84 },
+            { "surah": 43, "ayat": 85 },
+            { "surah": 44, "ayat": 7 },
+            { "surah": 44, "ayat": 8 },
+            { "surah": 45, "ayat": 27 },
+            { "surah": 45, "ayat": 36 },
+            { "surah": 45, "ayat": 37 },
+            { "surah": 48, "ayat": 14 },
+            { "surah": 53, "ayat": 31 },
+            { "surah": 57, "ayat": 2 },
+            { "surah": 57, "ayat": 5 },
+            { "surah": 57, "ayat": 10 },
+            { "surah": 59, "ayat": 23 },
+            { "surah": 59, "ayat": 24 },
+            { "surah": 62, "ayat": 1 },
+            { "surah": 64, "ayat": 1 },
+            { "surah": 78, "ayat": 37 },
+            { "surah": 85, "ayat": 9 }
+          ]
+        },
+        {
+          "SEMUA MAHKLUK MEMUJI-NYA": [
+            { "surah": 2, "ayat": 30 },
+            { "surah": 2, "ayat": 32 },
+            { "surah": 7, "ayat": 206 },
+            { "surah": 13, "ayat": 13 },
+            { "surah": 17, "ayat": 44 },
+            { "surah": 21, "ayat": 19 },
+            { "surah": 21, "ayat": 20 },
+            { "surah": 21, "ayat": 79 },
+            { "surah": 37, "ayat": 164 },
+            { "surah": 37, "ayat": 165 },
+            { "surah": 37, "ayat": 166 },
+            { "surah": 38, "ayat": 18 },
+            { "surah": 38, "ayat": 19 },
+            { "surah": 40, "ayat": 7 },
+            { "surah": 41, "ayat": 38 },
+            { "surah": 42, "ayat": 5 },
+            { "surah": 57, "ayat": 1 },
+            { "surah": 59, "ayat": 1 },
+            { "surah": 59, "ayat": 24 },
+            { "surah": 61, "ayat": 1 },
+            { "surah": 62, "ayat": 1 },
+            { "surah": 64, "ayat": 1 }
+          ]
+        },
+        { "PEMILIK DUNIA DAN AKHIRAT": [{ "surah": 92, "ayat": 13 }] },
+        {
+          "ALLAH MEMILIKI TENTARA LANGIT DAN BUMI": [
+            { "surah": 48, "ayat": 4 },
+            { "surah": 48, "ayat": 7 }
+          ]
+        }
+      ],
+      "SIFAT-SIFAT ALLAH": [
+        {
+          "YANG MENGHIDUPKAN DAN YANG MEMATIKAN": [
+            { "surah": 2, "ayat": 28 },
+            { "surah": 2, "ayat": 73 },
+            { "surah": 2, "ayat": 258 },
+            { "surah": 3, "ayat": 156 },
+            { "surah": 6, "ayat": 61 },
+            { "surah": 7, "ayat": 34 },
+            { "surah": 7, "ayat": 158 },
+            { "surah": 10, "ayat": 49 },
+            { "surah": 10, "ayat": 56 },
+            { "surah": 15, "ayat": 23 },
+            { "surah": 16, "ayat": 61 },
+            { "surah": 22, "ayat": 6 },
+            { "surah": 23, "ayat": 80 },
+            { "surah": 30, "ayat": 40 },
+            { "surah": 30, "ayat": 50 },
+            { "surah": 32, "ayat": 11 },
+            { "surah": 39, "ayat": 42 },
+            { "surah": 40, "ayat": 68 },
+            { "surah": 41, "ayat": 39 },
+            { "surah": 42, "ayat": 9 },
+            { "surah": 44, "ayat": 8 },
+            { "surah": 45, "ayat": 26 },
+            { "surah": 46, "ayat": 33 },
+            { "surah": 50, "ayat": 43 },
+            { "surah": 53, "ayat": 44 },
+            { "surah": 56, "ayat": 60 },
+            { "surah": 57, "ayat": 2 },
+            { "surah": 62, "ayat": 8 },
+            { "surah": 67, "ayat": 2 }
+          ]
+        },
+        {
+          "YANG HIDUP DAN MENGURUS TERUS MENERUS": [
+            { "surah": 2, "ayat": 255 },
+            { "surah": 3, "ayat": 2 },
+            { "surah": 20, "ayat": 111 },
+            { "surah": 40, "ayat": 65 }
+          ]
+        },
+        {
+          "YANG MENGHIDUPKAN DARI KEMATIAN DAN MEMATIKAN DARI KEHIDUPAN": [
+            { "surah": 6, "ayat": 95 },
+            { "surah": 10, "ayat": 31 },
+            { "surah": 30, "ayat": 19 }
+          ]
+        },
+        {
+          "MAHA PEMBERI RIZKI": [
+            { "surah": 2, "ayat": 3 },
+            { "surah": 2, "ayat": 22 },
+            { "surah": 2, "ayat": 57 },
+            { "surah": 2, "ayat": 60 },
+            { "surah": 2, "ayat": 126 },
+            { "surah": 2, "ayat": 172 },
+            { "surah": 2, "ayat": 212 },
+            { "surah": 2, "ayat": 254 },
+            { "surah": 3, "ayat": 27 },
+            { "surah": 3, "ayat": 37 },
+            { "surah": 4, "ayat": 39 },
+            { "surah": 5, "ayat": 88 },
+            { "surah": 5, "ayat": 114 },
+            { "surah": 6, "ayat": 140 },
+            { "surah": 6, "ayat": 142 },
+            { "surah": 7, "ayat": 32 },
+            { "surah": 7, "ayat": 160 },
+            { "surah": 8, "ayat": 3 },
+            { "surah": 8, "ayat": 4 },
+            { "surah": 8, "ayat": 26 },
+            { "surah": 8, "ayat": 74 },
+            { "surah": 10, "ayat": 31 },
+            { "surah": 10, "ayat": 59 },
+            { "surah": 10, "ayat": 93 },
+            { "surah": 11, "ayat": 6 },
+            { "surah": 11, "ayat": 88 },
+            { "surah": 13, "ayat": 22 },
+            { "surah": 13, "ayat": 26 },
+            { "surah": 14, "ayat": 31 },
+            { "surah": 14, "ayat": 32 }, 
+            { "surah": 14, "ayat": 37 },
+            { "surah": 16, "ayat": 56 },
+            { "surah": 16, "ayat": 71 },
+            { "surah": 16, "ayat": 72 },
+            { "surah": 16, "ayat": 73 },
+            { "surah": 16, "ayat": 75 },
+            { "surah": 17, "ayat": 30 },
+            { "surah": 17, "ayat": 31 },
+            { "surah": 17, "ayat": 70 },
+            { "surah": 20, "ayat": 81 },
+            { "surah": 20, "ayat": 131 },
+            { "surah": 20, "ayat": 132 },
+            { "surah": 22, "ayat": 28 },
+            { "surah": 22, "ayat": 34 },
+            { "surah": 22, "ayat": 35 },
+            { "surah": 22, "ayat": 58 },
+            { "surah": 23, "ayat": 72 },
+            { "surah": 24, "ayat": 38 },
+            { "surah": 27, "ayat": 64 },
+            { "surah": 28, "ayat": 54 },
+            { "surah": 29, "ayat": 17 },
+            { "surah": 29, "ayat": 60 },
+            { "surah": 30, "ayat": 37 },
+            { "surah": 30, "ayat": 40 },
+            { "surah": 34, "ayat": 15 },
+            { "surah": 34, "ayat": 24 },
+            { "surah": 34, "ayat": 36 },
+            { "surah": 34, "ayat": 39 },
+            { "surah": 35, "ayat": 3 },
+            { "surah": 35, "ayat": 29 },
+            { "surah": 36, "ayat": 47 },
+            { "surah": 38, "ayat": 54 },
+            { "surah": 39, "ayat": 52 },
+            { "surah": 40, "ayat": 13 },
+            { "surah": 42, "ayat": 12 },
+            { "surah": 42, "ayat": 19 },
+            { "surah": 42, "ayat": 27 },
+            { "surah": 42, "ayat": 38 },
+            { "surah": 45, "ayat": 16 },
+            { "surah": 51, "ayat": 22 },
+            { "surah": 51, "ayat": 56 },
+            { "surah": 51, "ayat": 57 },
+            { "surah": 51, "ayat": 58 },
+            { "surah": 62, "ayat": 11 },
+            { "surah": 63, "ayat": 10 },
+            { "surah": 65, "ayat": 2 },
+            { "surah": 65, "ayat": 3 },
+            { "surah": 67, "ayat": 15 },
+            { "surah": 67, "ayat": 21 },
+            { "surah": 89, "ayat": 15 },
+            { "surah": 89, "ayat": 16 }
+          ]
+        },
+        { "MAHA MENDENGAR, MENGETAHUI DAN MELIHAT": [] },
+        {
+          "MAHA LEMBUT, MAHA MENGETAHUI, MAHA MENGETAHUI HAL-HAL YANG GHAIB": []
+        },
+        { "MAHA KUASA DAN MENENTUKAN, MAHA KUAT DAN PERKASA": [] },
+        { "MAHA PERKASA MAHA BIJAKSANA": [] },
+        { "MAHA KUASA ATAS SEGALA SESUATU": [] },
+        { "MAHA BERKEHENDAK ATAS SEGALA SESUATU": [] },
+        { "MENERIMA ORANG YANG TAUBAT": [] },
+        { "MAHA PENERIMA TAUBAT DAN MENERIMA ORANG YANG TAUBAT": [] },
+        { "MAHA PENGAMPUN LAGI MAHA PENYAYANG": [] },
+        { "ALLAH SIKSAAN-NYA SANGAT PEDIH": [] },
+        { "ALLAH TIDAK LALAI AKAN APA YANG DIKERJAKAN HAMBA-HAMBA-NYA": [] },
+        { "MENGETAHI APA YANG MANUSIA KERJAKAN": [] },
+        { "MELIHAT APA YANG MANUSIA KERJAKAN": [] },
+        { "MAHA MENGETAHUI APA YANG MANUSIA SEMBUNYIKAN DAN JELASKAN": [] },
+        { "MAHA ADIL": [] },
+        { "MAHA MENGETAHUI MAHA BIJAKSANA": [] }
+      ],
+      "KEKUASAAN ALLAH": [
+        { "ALLAH MAHA KUASA ATAS SEGALA SESUATU": [] },
+        { "ALLAH MAHA BERKEHENDAK ATAS SEGALA SESUATU": [] },
+        { "JIKA ALLAH BERTITAH JADI, MAKA JADILAH": [] },
+        { "ALLAH YANG MENGHIDUPKAN DAN YANG MEMATIKAN": [] },
+        { "ALLAH MAMPU MENGHIDUPKAN LAGI MANUSIA": [] },
+        { "PRASANGKA ORANG YAHUDI TERHADAP KEKUASAAN ALLAH": [] },
+        { "KEKUASAAN ALLAH DI ATAS KEKUASAAN YANG LAIN": [] },
+        { "ALLAH SEBAGAI PENGUASA DI HARI PERHITUNGAN": [] },
+        { "ALLAH MEMILIKI TENTARA LANGIN DAN BUMI": [] },
+        { "ALLAH SEBAGAI TEMPAT BERHARAP": [] }
+      ],
       "IZIN ALLAH": [],
       "ALLAH MEMILIKI NAMA-NAMA YANG BAIK": [],
       "NAMA-NAMA ALLAH/ASMA AL-HUSNA": [],
