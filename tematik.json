@@ -4763,35 +4763,1181 @@
                 }
               ]
             },
-            { "CIRI ORANG MU’MIN YANG BAHAGIA": [] }
+            {
+              "CIRI ORANG MU’MIN YANG BAHAGIA": [
+                { "surah": 23, "ayat": 1 },
+                { "surah": 23, "ayat": 2 },
+                { "surah": 23, "ayat": 3 },
+                { "surah": 23, "ayat": 4 },
+                { "surah": 23, "ayat": 5 },
+                { "surah": 23, "ayat": 6 },
+                { "surah": 23, "ayat": 7 },
+                { "surah": 23, "ayat": 8 },
+                { "surah": 23, "ayat": 9 },
+                { "surah": 23, "ayat": 10 }
+              ]
+            }
           ]
         },
         {
           "FASIK": [
-            { "DEFINISI": [] },
-            { "REALITAS": [] },
-            { "FIQH INTERAKSI": [] },
-            { "ANCAMAN": [] }
+            {
+              "DEFINISI": [
+                {
+                  "FASIK ADALAH KELUAR DARI PERINTAH ALLAH": [
+                    { "surah": 3, "ayat": 81 },
+                    { "surah": 3, "ayat": 82 },
+                    { "surah": 5, "ayat": 3 },
+                    { "surah": 5, "ayat": 47 },
+                    { "surah": 6, "ayat": 121 },
+                    { "surah": 6, "ayat": 145 },
+                    { "surah": 18, "ayat": 50 },
+                    { "surah": 21, "ayat": 74 },
+                    { "surah": 24, "ayat": 55 },
+                    { "surah": 27, "ayat": 12 },
+                    { "surah": 28, "ayat": 32 },
+                    { "surah": 43, "ayat": 54 },
+                    { "surah": 49, "ayat": 11 },
+                    { "surah": 59, "ayat": 19 }
+                  ]
+                },
+                {
+                  "KUFUR ITU BAGIAN DARI FISK": [
+                    { "surah": 2, "ayat": 99 },
+                    { "surah": 9, "ayat": 83 },
+                    { "surah": 9, "ayat": 84 },
+                    { "surah": 24, "ayat": 55 }
+                  ]
+                },
+                {
+                  "MUNAFIK JUGA BAGIAN DARI FISK": [{ "surah": 9, "ayat": 67 }]
+                },
+                {
+                  "YANG BERPALING SESUDAH BERJANJI, TERMASUK FASIK": [
+                    { "surah": 3, "ayat": 81 },
+                    { "surah": 3, "ayat": 83 }
+                  ]
+                },
+                {
+                  "TIDAK MENJALANKAN HUKUM ALLAH TERMASUK FASIK": [
+                    { "surah": 5, "ayat": 47 }
+                  ]
+                },
+                {
+                  "ORANG FASIK ADALAH YANG MELUPAKAN ALLAH": [
+                    { "surah": 59, "ayat": 19 }
+                  ]
+                }
+              ]
+            },
+            {
+              "REALITAS": [
+                {
+                  "KEBANYAKAN AHLI KITAB ADALAH FASIK": [
+                    { "surah": 3, "ayat": 110 }
+                  ]
+                },
+                {
+                  "BANYAK SEKALI MANUSIA YANG TERGOLONG FASIK": [
+                    { "surah": 3, "ayat": 110 },
+                    { "surah": 5, "ayat": 49 },
+                    { "surah": 5, "ayat": 59 },
+                    { "surah": 5, "ayat": 81 },
+                    { "surah": 7, "ayat": 101 },
+                    { "surah": 7, "ayat": 102 },
+                    { "surah": 9, "ayat": 8 },
+                    { "surah": 57, "ayat": 16 },
+                    { "surah": 57, "ayat": 26 },
+                    { "surah": 57, "ayat": 27 }
+                  ]
+                },
+                {
+                  "TIDA SAMA ANTARA ORANG MU'MIN DAN ORANG FASIK": [
+                    { "surah": 32, "ayat": 18 }
+                  ]
+                },
+                {
+                  "ORANG MU'MIN DIHINDARI DARI SIFAT FASIK": [
+                    { "surah": 49, "ayat": 7 },
+                    { "surah": 49, "ayat": 11 }
+                  ]
+                }
+              ]
+            },
+            {
+              "FIQH INTERAKSI": [
+                {
+                  "KESAKSIAN ORANG YANG FASIK TIDAK DITERIMA": [
+                    { "surah": 24, "ayat": 4 }
+                  ]
+                },
+                {
+                  "TIDAK BOLEH MEMPERCAYAI BERITA DARI ORANG FASIK": [
+                    { "surah": 49, "ayat": 6 }
+                  ]
+                },
+                {
+                  "PERINGATAN BAGI YANG BERHAJI UNTUK MENJAUHI SIFAT FASIK": [
+                    { "surah": 2, "ayat": 197 }
+                  ]
+                },
+                {
+                  "TIDAK BOLEH BERTINDAK FASIK DALAM BERJUAL BELI": [
+                    { "surah": 2, "ayat": 282 }
+                  ]
+                }
+              ]
+            },
+            {
+              "ANCAMAN": [
+                {
+                  "DAMPAK BURUK BAGI ORANG FASIK": [
+                    { "surah": 2, "ayat": 59 },
+                    { "surah": 6, "ayat": 49 },
+                    { "surah": 7, "ayat": 163 },
+                    { "surah": 7, "ayat": 165 },
+                    { "surah": 9, "ayat": 53 },
+                    { "surah": 10, "ayat": 33 },
+                    { "surah": 32, "ayat": 20 },
+                    { "surah": 46, "ayat": 20 },
+                    { "surah": 46, "ayat": 35 },
+                    { "surah": 59, "ayat": 5 }
+                  ]
+                },
+                {
+                  "KEFASIKAN MERUPAKAN TANDA KEHANCURAN UMMAT": [
+                    { "surah": 17, "ayat": 16 },
+                    { "surah": 29, "ayat": 34 }
+                  ]
+                },
+                {
+                  "ORANG YANG FASIK SULIT MENDAPAT RIDHA DAN HIDAYAH ALLAH": [
+                    { "surah": 2, "ayat": 26 },
+                    { "surah": 5, "ayat": 108 },
+                    { "surah": 9, "ayat": 24 },
+                    { "surah": 61, "ayat": 5 },
+                    { "surah": 63, "ayat": 6 }
+                  ]
+                },
+                { "ORANG FASIK AKAN BINASA": [{ "surah": 46, "ayat": 35 }] }
+              ]
+            }
           ]
         },
-        { "MURTAD": [] },
-        { "KAFIR": [] },
-        { "MUNAFIK": [] }
+        {
+          "MURTAD": [
+            {
+              "AHLUL KITAB SELALU BERUSAHA MEMURTADKAN ORANG MUSLIM": [
+                { "surah": 2, "ayat": 109 },
+                { "surah": 2, "ayat": 217 },
+                { "surah": 3, "ayat": 100 },
+                { "surah": 3, "ayat": 101 }
+              ]
+            },
+            {
+              "PENDORONG ORANG MENJADI MURTAD": [
+                { "surah": 47, "ayat": 27 },
+                { "surah": 47, "ayat": 28 }
+              ]
+            },
+            {
+              "ORANG YANG MURTAD AMAL BAIKNYA AKAN BERGUGURAN": [
+                { "surah": 2, "ayat": 217 }
+              ]
+            },
+            {
+              "PERINGATAN BUAT ORANG YANG MURTAD": [{ "surah": 5, "ayat": 54 }]
+            },
+            { "HUKUMAN MEREKA YANG MURTAD": [{ "surah": 5, "ayat": 54 }] }
+          ]
+        },
+        {
+          "KAFIR": [
+            {
+              "DESKRIPSI": [
+                {
+                  "DEFINISI ORANG KAFIR": [
+                    { "surah": 4, "ayat": 136 },
+                    { "surah": 4, "ayat": 150 },
+                    { "surah": 4, "ayat": 151 }
+                  ]
+                },
+                {
+                  "ORANG KAFIR ADALAH ORANG YANG MERUGI": [
+                    { "surah": 2, "ayat": 121 }
+                  ]
+                },
+                {
+                  "ORANG KAFIR ADALAH ORANG YANG SESAT": [
+                    { "surah": 4, "ayat": 136 }
+                  ]
+                }
+              ]
+            },
+            {
+              "PENYEBAB KEKAFIRAN MEREKA": [
+                {
+                  "MENGATAKAN AL-MASIH ITU TUHAN": [
+                    { "surah": 5, "ayat": 17 },
+                    { "surah": 5, "ayat": 72 }
+                  ]
+                },
+                { "MENGATAKAN TUHAN ITU 3": [{ "surah": 5, "ayat": 73 }] },
+                {
+                  "TIDAK MAU BERIMAN KEPADA 1 TUHAN, AKAN MAU DENGAN 2-3 TUHAN": [
+                    { "surah": 40, "ayat": 10 },
+                    { "surah": 40, "ayat": 11 },
+                    { "surah": 40, "ayat": 12 }
+                  ]
+                },
+                {
+                  "MENGINGKARI RISALAH SEORANG RASUL": [
+                    { "surah": 14, "ayat": 9 }
+                  ]
+                },
+                {
+                  "MEMISAHKAN ANTARA ALLAH DAN RASUL-NYA": [
+                    { "surah": 4, "ayat": 149 },
+                    { "surah": 4, "ayat": 150 }
+                  ]
+                },
+                {
+                  "MEMBELI KEKAFIRAN DAENGAN KEIMANAN": [
+                    { "surah": 3, "ayat": 177 }
+                  ]
+                }
+              ]
+            },
+            {
+              "TANDA-TANDA KEKAFIRAN": [
+                {
+                  "MENGINGKARI KEBENARAN": [
+                    { "surah": 5, "ayat": 110 },
+                    { "surah": 6, "ayat": 25 },
+                    { "surah": 22, "ayat": 55 },
+                    { "surah": 30, "ayat": 58 },
+                    { "surah": 46, "ayat": 3 }
+                  ]
+                },
+                {
+                  "MENGINGKARI HARI KEBANGKITAN": [
+                    { "surah": 6, "ayat": 29 },
+                    { "surah": 11, "ayat": 7 },
+                    { "surah": 13, "ayat": 5 },
+                    { "surah": 16, "ayat": 67 },
+                    { "surah": 16, "ayat": 68 },
+                    { "surah": 23, "ayat": 35 },
+                    { "surah": 23, "ayat": 36 },
+                    { "surah": 23, "ayat": 37 },
+                    { "surah": 23, "ayat": 38 },
+                    { "surah": 23, "ayat": 81 },
+                    { "surah": 23, "ayat": 82 },
+                    { "surah": 23, "ayat": 83 },
+                    { "surah": 32, "ayat": 10 },
+                    { "surah": 34, "ayat": 3 },
+                    { "surah": 34, "ayat": 7 },
+                    { "surah": 37, "ayat": 15 },
+                    { "surah": 37, "ayat": 16 },
+                    { "surah": 37, "ayat": 17 },
+                    { "surah": 37, "ayat": 18 },
+                    { "surah": 37, "ayat": 19 },
+                    { "surah": 37, "ayat": 52 },
+                    { "surah": 37, "ayat": 53 },
+                    { "surah": 45, "ayat": 24 },
+                    { "surah": 50, "ayat": 2 },
+                    { "surah": 50, "ayat": 3 },
+                    { "surah": 56, "ayat": 47 },
+                    { "surah": 56, "ayat": 48 },
+                    { "surah": 64, "ayat": 7 }
+                  ]
+                },
+                {
+                  "PERKATAAN MIRING TERHADAP AL-QUR'AN": [
+                    { "surah": 6, "ayat": 7 },
+                    { "surah": 6, "ayat": 91 },
+                    { "surah": 10, "ayat": 38 },
+                    { "surah": 11, "ayat": 13 },
+                    { "surah": 11, "ayat": 35 },
+                    { "surah": 16, "ayat": 24 },
+                    { "surah": 21, "ayat": 5 },
+                    { "surah": 25, "ayat": 4 },
+                    { "surah": 25, "ayat": 5 },
+                    { "surah": 31, "ayat": 6 },
+                    { "surah": 31, "ayat": 7 },
+                    { "surah": 34, "ayat": 31 },
+                    { "surah": 34, "ayat": 43 },
+                    { "surah": 41, "ayat": 26 },
+                    { "surah": 46, "ayat": 7 },
+                    { "surah": 47, "ayat": 16 }
+                  ]
+                },
+                {
+                  "PERKATAAN MIRING TERHADAP RISALAH KENABIAN": [
+                    { "surah": 6, "ayat": 7 },
+                    { "surah": 6, "ayat": 8 },
+                    { "surah": 6, "ayat": 37 },
+                    { "surah": 6, "ayat": 124 },
+                    { "surah": 7, "ayat": 66 },
+                    { "surah": 7, "ayat": 70 },
+                    { "surah": 7, "ayat": 76 },
+                    { "surah": 7, "ayat": 77 },
+                    { "surah": 7, "ayat": 82 },
+                    { "surah": 7, "ayat": 90 },
+                    { "surah": 7, "ayat": 132 },
+                    { "surah": 7, "ayat": 138 },
+                    { "surah": 8, "ayat": 31 },
+                    { "surah": 8, "ayat": 32 },
+                    { "surah": 10, "ayat": 15 },
+                    { "surah": 10, "ayat": 78 },
+                    { "surah": 11, "ayat": 7 },
+                    { "surah": 11, "ayat": 27 },
+                    { "surah": 11, "ayat": 32 },
+                    { "surah": 11, "ayat": 53 },
+                    { "surah": 11, "ayat": 62 },
+                    { "surah": 11, "ayat": 87 },
+                    { "surah": 11, "ayat": 91 },
+                    { "surah": 13, "ayat": 43 },
+                    { "surah": 14, "ayat": 10 },
+                    { "surah": 14, "ayat": 13 },
+                    { "surah": 15, "ayat": 6 },
+                    { "surah": 15, "ayat": 7 },
+                    { "surah": 15, "ayat": 14 },
+                    { "surah": 15, "ayat": 15 },
+                    { "surah": 16, "ayat": 101 },
+                    { "surah": 17, "ayat": 94 },
+                    { "surah": 20, "ayat": 62 },
+                    { "surah": 20, "ayat": 63 },
+                    { "surah": 20, "ayat": 64 },
+                    { "surah": 20, "ayat": 133 },
+                    { "surah": 21, "ayat": 3 },
+                    { "surah": 21, "ayat": 4 },
+                    { "surah": 21, "ayat": 5 },
+                    { "surah": 21, "ayat": 36 },
+                    { "surah": 23, "ayat": 24 },
+                    { "surah": 23, "ayat": 25 },
+                    { "surah": 23, "ayat": 33 },
+                    { "surah": 23, "ayat": 34 },
+                    { "surah": 23, "ayat": 36 },
+                    { "surah": 23, "ayat": 37 },
+                    { "surah": 25, "ayat": 4 },
+                    { "surah": 25, "ayat": 5 },
+                    { "surah": 25, "ayat": 7 },
+                    { "surah": 25, "ayat": 8 },
+                    { "surah": 26, "ayat": 110 },
+                    { "surah": 26, "ayat": 111 },
+                    { "surah": 26, "ayat": 116 },
+                    { "surah": 26, "ayat": 135 },
+                    { "surah": 26, "ayat": 136 },
+                    { "surah": 26, "ayat": 153 },
+                    { "surah": 26, "ayat": 154 },
+                    { "surah": 26, "ayat": 167 },
+                    { "surah": 26, "ayat": 185 },
+                    { "surah": 26, "ayat": 187 },
+                    { "surah": 27, "ayat": 13 },
+                    { "surah": 27, "ayat": 14 },
+                    { "surah": 27, "ayat": 46 },
+                    { "surah": 27, "ayat": 47 },
+                    { "surah": 27, "ayat": 48 },
+                    { "surah": 27, "ayat": 49 },
+                    { "surah": 27, "ayat": 55 },
+                    { "surah": 27, "ayat": 56 },
+                    { "surah": 28, "ayat": 48 },
+                    { "surah": 28, "ayat": 57 },
+                    { "surah": 29, "ayat": 24 },
+                    { "surah": 31, "ayat": 21 },
+                    { "surah": 34, "ayat": 31 },
+                    { "surah": 34, "ayat": 34 },
+                    { "surah": 34, "ayat": 35 },
+                    { "surah": 34, "ayat": 43 },
+                    { "surah": 36, "ayat": 14 },
+                    { "surah": 36, "ayat": 15 },
+                    { "surah": 36, "ayat": 16 },
+                    { "surah": 36, "ayat": 17 },
+                    { "surah": 36, "ayat": 18 },
+                    { "surah": 40, "ayat": 24 },
+                    { "surah": 40, "ayat": 25 },
+                    { "surah": 41, "ayat": 5 },
+                    { "surah": 41, "ayat": 14 },
+                    { "surah": 51, "ayat": 51 },
+                    { "surah": 51, "ayat": 52 },
+                    { "surah": 54, "ayat": 9 },
+                    { "surah": 54, "ayat": 16 },
+                    { "surah": 54, "ayat": 23 },
+                    { "surah": 54, "ayat": 24 },
+                    { "surah": 54, "ayat": 25 },
+                    { "surah": 54, "ayat": 33 },
+                    { "surah": 54, "ayat": 41 },
+                    { "surah": 54, "ayat": 42 },
+                    { "surah": 64, "ayat": 5 },
+                    { "surah": 64, "ayat": 6 },
+                    { "surah": 68, "ayat": 51 }
+                  ]
+                }
+              ]
+            },
+            {
+              "DAMPAK KEKAFIRAN TERHADAP ALLAH": [
+                {
+                  "ADANYA ORANG KAFIR TIDAK MENGURANGI KEKAYAAN ALLAH": [
+                    { "surah": 3, "ayat": 97 },
+                    { "surah": 27, "ayat": 40 },
+                    { "surah": 31, "ayat": 12 }
+                  ]
+                },
+                {
+                  "DAMPAK KEKUFURAN AKAN KEMBALI KE ORANG KAFIR": [
+                    { "surah": 16, "ayat": 40 },
+                    { "surah": 30, "ayat": 44 },
+                    { "surah": 31, "ayat": 12 },
+                    { "surah": 31, "ayat": 23 },
+                    { "surah": 35, "ayat": 39 }
+                  ]
+                },
+                {
+                  "ALLAH TETAP MELIHAT PRILAKU MEREKA": [
+                    { "surah": 84, "ayat": 15 }
+                  ]
+                },
+                {
+                  "ORANG KAFIR TIDAK DAPAT MERUGIKAN ALLAH": [
+                    { "surah": 3, "ayat": 176 }
+                  ]
+                }
+              ]
+            },
+            {
+              "NASIB ORANG KAFIR": [
+                {
+                  "TIDAK DIAMPUNI DOSANYA, DAN TIDAK JUGA DITERIMA TEBUSANNYA": [
+                    { "surah": 3, "ayat": 91 },
+                    { "surah": 4, "ayat": 48 },
+                    { "surah": 4, "ayat": 116 },
+                    { "surah": 5, "ayat": 36 },
+                    { "surah": 5, "ayat": 37 },
+                    { "surah": 47, "ayat": 34 }
+                  ]
+                },
+                {
+                  "AKAN BERGUGURAN PAHALA AMALANNYA": [
+                    { "surah": 5, "ayat": 5 }
+                  ]
+                },
+                {
+                  "AKAN MENANGGUNG SENDIRI DOSA KEKAFIRANNYA": [
+                    { "surah": 30, "ayat": 44 }
+                  ]
+                },
+                {
+                  "MEREKA MENIKMATI DUNIA SEKEJAP LALU CELAKA DI AKHIRAT": [
+                    { "surah": 2, "ayat": 126 }
+                  ]
+                },
+                { "SULIT UNTUK DIINGATKAN": [{ "surah": 2, "ayat": 6 }] },
+                { "HATINYA DITUTUP OLEH ALLAH": [{ "surah": 2, "ayat": 7 }] },
+                {
+                  "AKAN DIAZAB": [
+                    { "surah": 2, "ayat": 7 },
+                    { "surah": 84, "ayat": 22 },
+                    { "surah": 84, "ayat": 23 },
+                    { "surah": 84, "ayat": 24 }
+                  ]
+                },
+                {
+                  "DITARIK UBUN-UBUNNYA LALU DILEMPAR KE NERAKA": [
+                    { "surah": 96, "ayat": 15 },
+                    { "surah": 96, "ayat": 16 },
+                    { "surah": 96, "ayat": 17 },
+                    { "surah": 96, "ayat": 18 }
+                  ]
+                }
+              ]
+            },
+            {
+              "FENOMENA": [
+                {
+                  "ORANG YANG KEMBALI KAFIR SETELAH BERIMAN AKAN DIMURKAI ALLAH": [
+                    { "surah": 16, "ayat": 106 }
+                  ]
+                },
+                {
+                  "ADA YANG KAFIR DI ZAMAN PARA NABI": [
+                    { "surah": 16, "ayat": 106 }
+                  ]
+                }
+              ]
+            },
+            {
+              "FIQH INTERAKSI": [
+                {
+                  "KAEDAH BERINTERAKSI": [
+                    { "surah": 60, "ayat": 8 },
+                    { "surah": 60, "ayat": 9 }
+                  ]
+                },
+                {
+                  "LARANGAN UNTUK MENJADIKAN MEREKA WALI/WAKIL/PEMIMPIN": [
+                    { "surah": 3, "ayat": 28 },
+                    { "surah": 4, "ayat": 115 },
+                    { "surah": 4, "ayat": 138 },
+                    { "surah": 4, "ayat": 139 },
+                    { "surah": 4, "ayat": 144 },
+                    { "surah": 5, "ayat": 57 },
+                    { "surah": 9, "ayat": 23 },
+                    { "surah": 9, "ayat": 24 },
+                    { "surah": 28, "ayat": 86 },
+                    { "surah": 58, "ayat": 22 },
+                    { "surah": 60, "ayat": 1 },
+                    { "surah": 60, "ayat": 2 },
+                    { "surah": 60, "ayat": 3 },
+                    { "surah": 60, "ayat": 4 }
+                  ]
+                },
+                {
+                  "PERINGATAN/HATI-HATI DALAM MENTAATI ORANG KAFIR": [
+                    { "surah": 3, "ayat": 149 },
+                    { "surah": 5, "ayat": 3 },
+                    { "surah": 6, "ayat": 121 },
+                    { "surah": 7, "ayat": 150 },
+                    { "surah": 25, "ayat": 52 },
+                    { "surah": 29, "ayat": 8 },
+                    { "surah": 31, "ayat": 15 },
+                    { "surah": 33, "ayat": 1 },
+                    { "surah": 33, "ayat": 48 },
+                    { "surah": 76, "ayat": 24 }
+                  ]
+                },
+                {
+                  "LARANGAN MENIKAHI PUTRA MEREKA": [
+                    { "surah": 2, "ayat": 221 }
+                  ]
+                }
+              ]
+            },
+            {
+              "PRILAKU ORANG KAFIR DI DUNIA": [
+                {
+                  "MEREKA BERGEMBIRA DI TENGAH KELUARGA KAFIRNYA": [
+                    { "surah": 84, "ayat": 13 }
+                  ]
+                },
+                {
+                  "MENGIRA BAHWA MEREKA TIDAK KEMBALI KEPADA TUHANNYA": [
+                    { "surah": 84, "ayat": 14 }
+                  ]
+                },
+                {
+                  "MEREKA TIDAK SUJUD KETIKA DIBACAKAN AL-QUR'AN": [
+                    { "surah": 84, "ayat": 21 }
+                  ]
+                },
+                {
+                  "MEREKA INGKAR TERHADAP AL-QUR'AN": [
+                    { "surah": 84, "ayat": 21 },
+                    { "surah": 84, "ayat": 22 }
+                  ]
+                }
+              ]
+            },
+            {
+              "DAMPAK KEKUFURAN SESEORANG": [
+                { "surah": 4, "ayat": 167 },
+                { "surah": 4, "ayat": 168 }
+              ]
+            }
+          ]
+        },
+        {
+          "MUNAFIK": [
+            {
+              "DESKRIPSI": [
+                {
+                  "ORANG MUNAFIK ADALAH PENDUSTA": [{ "surah": 63, "ayat": 1 }]
+                },
+                {
+                  "ORANG MUNAFIK ADALAH ORANG YANG DISESATKAN ALLAH": [
+                    { "surah": 4, "ayat": 88 }
+                  ]
+                },
+                {
+                  "ORANG MUNAFIK ADA YANG LAKI-LAKI ADA JUGA YANG PEREMPUAN": [
+                    { "surah": 9, "ayat": 67 },
+                    { "surah": 9, "ayat": 68 },
+                    { "surah": 33, "ayat": 73 },
+                    { "surah": 48, "ayat": 6 },
+                    { "surah": 57, "ayat": 13 }
+                  ]
+                }
+              ]
+            },
+            {
+              "PRILAKU": [
+                {
+                  "MEREKA TAKUT RAHASIANYA DIPERLIHATKAN ALLAH": [
+                    { "surah": 4, "ayat": 81 },
+                    { "surah": 9, "ayat": 64 }
+                  ]
+                },
+                {
+                  "MEREKA AKAN MENYERU KEPADA KEMUNKARAN": [
+                    { "surah": 9, "ayat": 67 }
+                  ]
+                },
+                {
+                  "PRASANGKA ORANG MUNAFIK AKAN JANJI ALLAH DAN RASUL-NYA": [
+                    { "surah": 33, "ayat": 12 },
+                    { "surah": 63, "ayat": 7 },
+                    { "surah": 63, "ayat": 8 }
+                  ]
+                },
+                {
+                  "MATA HATI MEREKA SAKIT DAN AKAN BERTAMBAH SAKIT": [
+                    { "surah": 2, "ayat": 10 }
+                  ]
+                },
+                {
+                  "ORANG MUNAFIK MENCOBA MENIPU ALLAH": [
+                    { "surah": 2, "ayat": 8 },
+                    { "surah": 2, "ayat": 9 },
+                    { "surah": 4, "ayat": 142 }
+                  ]
+                },
+                {
+                  "HATI-HATI DENGAN BERITA BERSUMBER ORANG MUNAFIK": [
+                    { "surah": 63, "ayat": 1 }
+                  ]
+                },
+                {
+                  "ORANG MUNAFIK TIDAK MAU MENERIMA NASEHAT": [
+                    { "surah": 2, "ayat": 11 },
+                    { "surah": 2, "ayat": 12 },
+                    { "surah": 2, "ayat": 13 },
+                    { "surah": 2, "ayat": 14 },
+                    { "surah": 2, "ayat": 15 },
+                    { "surah": 4, "ayat": 61 },
+                    { "surah": 4, "ayat": 62 },
+                    { "surah": 4, "ayat": 63 }
+                  ]
+                },
+                {
+                  "MEREKA MEMBELI KESESATAN DENGAN HIDAYAH": [
+                    { "surah": 2, "ayat": 16 }
+                  ]
+                },
+                {
+                  "SELALU BERBOHONG": [
+                    { "surah": 3, "ayat": 167 },
+                    { "surah": 48, "ayat": 11 },
+                    { "surah": 63, "ayat": 1 }
+                  ]
+                },
+                {
+                  "MEREKA MELARANG ORANG UNTUK MEMBANTU RASULULLAH SAW DAN SAHABAT-SAHABATNYA": [
+                    { "surah": 63, "ayat": 7 }
+                  ]
+                },
+                {
+                  "BERMUKA DUA": [
+                    { "surah": 2, "ayat": 14 },
+                    { "surah": 2, "ayat": 14 }
+                  ]
+                }
+              ]
+            },
+            {
+              "HUKUMAN KE ATAS ORANG MUNAFIK": [
+                {
+                  "ALLAH AKAN MEMBALAS OLOK-OLOK MEREKA": [
+                    { "surah": 2, "ayat": 15 }
+                  ]
+                },
+                {
+                  "ALLAH AKAN MENEMPATKAN MEREKA DI NERAKA YANG PALING RENDAH": [
+                    { "surah": 4, "ayat": 145 }
+                  ]
+                },
+                {
+                  "ALLAH MENYIAPKAN BUAT MEREKA AZAB YANG PEDIH": [
+                    { "surah": 58, "ayat": 14 },
+                    { "surah": 58, "ayat": 15 },
+                    { "surah": 58, "ayat": 16 },
+                    { "surah": 58, "ayat": 17 }
+                  ]
+                }
+              ]
+            },
+            {
+              "NASIB ORANG MUNAFIK DI AKHIRAT": [
+                {
+                  "ORANG MUNAFIK AKAN DISIKSA": [
+                    { "surah": 4, "ayat": 138 },
+                    { "surah": 33, "ayat": 24 },
+                    { "surah": 33, "ayat": 73 },
+                    { "surah": 48, "ayat": 6 }
+                  ]
+                },
+                {
+                  "ORANG MUNAFIK AKAN DITEMPATKAN DI NERAKA": [
+                    { "surah": 4, "ayat": 140 }
+                  ]
+                },
+                {
+                  "ORANG MUNAFIK TEMPATNYA DI NERAKA TERENDAH": [
+                    { "surah": 4, "ayat": 145 },
+                    { "surah": 9, "ayat": 68 }
+                  ]
+                }
+              ]
+            },
+            {
+              "PERUMPAMAAN": [
+                { "surah": 2, "ayat": 17 },
+                { "surah": 2, "ayat": 18 },
+                { "surah": 2, "ayat": 19 },
+                { "surah": 2, "ayat": 20 }
+              ]
+            },
+            {
+              "ORANG MUNAFIK MASIH DIBERI KESEMPATAN BERTAUBAT": [
+                { "surah": 4, "ayat": 145 },
+                { "surah": 4, "ayat": 146 },
+                { "surah": 33, "ayat": 24 }
+              ]
+            }
+          ]
+        }
       ],
       "AGAMA-AGAMA": [
-        { "YAHUDI": [] },
-        { "NASRANI": [] },
-        { "AHLI KITAB": [] },
-        { "MAJUSI": [] },
-        { "ISLAM": [] }
+        {
+          "YAHUDI": [
+            {
+              "PENGAKUAN ORANG YAHUDI TENTANG ALLAH": [
+                { "surah": 5, "ayat": 18 },
+                { "surah": 5, "ayat": 64 },
+                { "surah": 9, "ayat": 30 },
+                { "surah": 9, "ayat": 31 }
+              ]
+            },
+            {
+              "PENGAKUAN ORANG YAHUDI TENTANG 'UZAIR": [
+                { "surah": 9, "ayat": 30 }
+              ]
+            },
+            {
+              "NABI IBRAHIM BUKAN YAHUDI DAN BUKAN NASRANI": [
+                { "surah": 3, "ayat": 67 }
+              ]
+            },
+            {
+              "PERMUSUHAN MEREKA TERHADAP ISLAM": [
+                { "surah": 2, "ayat": 140 },
+                { "surah": 5, "ayat": 82 }
+              ]
+            },
+            {
+              "LARANGAN UNTUK MENJADIKAN MEREKA WALI/WAKIL/PEMIMPIN": [
+                { "surah": 5, "ayat": 51 }
+              ]
+            }
+          ]
+        },
+        {
+          "NASRANI": [
+            {
+              "PERMUSUHAN NASRANI DENGAN YAHUDI": [{ "surah": 2, "ayat": 113 }]
+            },
+            {
+              "SIKAP ORANG NASRANI DAN YAHUDI TERHADAP ISLAM": [
+                { "surah": 2, "ayat": 120 }
+              ]
+            },
+            {
+              "PENGAKUAN ORANG NASRANI TENTANG ISA": [
+                { "surah": 9, "ayat": 30 }
+              ]
+            },
+            {
+              "PERMUSUHAN ANTAR SESAMA PENGIKUT NASRANI": [
+                { "surah": 5, "ayat": 14 }
+              ]
+            }
+          ]
+        },
+        {
+          "AHLI KITAB": [
+            {
+              "REALITAS MEREKA": [
+                {
+                  "ADA DI ANTARA MEREKA YANG BERIMAN DAN BAIK": [
+                    { "surah": 2, "ayat": 121 },
+                    { "surah": 3, "ayat": 75 },
+                    { "surah": 3, "ayat": 113 },
+                    { "surah": 3, "ayat": 114 },
+                    { "surah": 3, "ayat": 199 },
+                    { "surah": 5, "ayat": 82 },
+                    { "surah": 5, "ayat": 83 },
+                    { "surah": 5, "ayat": 84 },
+                    { "surah": 13, "ayat": 36 },
+                    { "surah": 28, "ayat": 52 },
+                    { "surah": 28, "ayat": 53 },
+                    { "surah": 29, "ayat": 47 }
+                  ]
+                },
+                {
+                  "ANTAR MEREKA JUGA TERDAPAT PERMUSUHAN": [
+                    { "surah": 2, "ayat": 113 }
+                  ]
+                }
+              ]
+            },
+            {
+              "KLAIM MEREKA": [
+                {
+                  "BAHWA PARA NABI-NABI BERAQIDAH SEPERTI MEREKA": [
+                    { "surah": 5, "ayat": 18 }
+                  ]
+                },
+                {
+                  "BAHWA ALLAH MEMPUNYAI ANAK": [
+                    { "surah": 2, "ayat": 116 },
+                    { "surah": 9, "ayat": 30 },
+                    { "surah": 9, "ayat": 31 },
+                    { "surah": 10, "ayat": 68 },
+                    { "surah": 19, "ayat": 88 },
+                    { "surah": 21, "ayat": 21 }
+                  ]
+                },
+                {
+                  "BAHWA MEREKALAH YANG BERADA PADA JALAN HIDAYAH": [
+                    { "surah": 2, "ayat": 135 }
+                  ]
+                },
+                {
+                  "BAHWA MEREKA ADALAH ANAK-ANAK ALLAH DAN KEKASIH-NYA": [
+                    { "surah": 5, "ayat": 18 }
+                  ]
+                },
+                {
+                  "BAHWA TUHAN ITU 3 DAN AL-MASIH ADALAH TUHAN": [
+                    { "surah": 5, "ayat": 72 },
+                    { "surah": 5, "ayat": 73 }
+                  ]
+                },
+                {
+                  "BAHWA ALLAH ITU MISKIN DAN TANGAN-NYA TERIKAT": [
+                    { "surah": 3, "ayat": 181 },
+                    { "surah": 5, "ayat": 64 }
+                  ]
+                },
+                {
+                  "BAHWA HANYA MEREKA YANG AKAN MASUK SURGA": [
+                    { "surah": 2, "ayat": 111 }
+                  ]
+                }
+              ]
+            },
+            {
+              "BEBERAPA PERILAKU MEREKA": [
+                {
+                  "MEREKA MENGINGKARI AYAT-AYAT ALLAH DAN BERPALING DARI KEBENARAN": [
+                    { "surah": 2, "ayat": 101 },
+                    { "surah": 3, "ayat": 70 },
+                    { "surah": 3, "ayat": 71 },
+                    { "surah": 3, "ayat": 98 },
+                    { "surah": 3, "ayat": 99 },
+                    { "surah": 5, "ayat": 59 }
+                  ]
+                },
+                {
+                  "MERUBAH AL-KITAB DAN MENYEMBUNYIKAN BEBERAPA KEBENARAN YANG ADA DI DALAMNYA": [
+                    { "surah": 2, "ayat": 59 },
+                    { "surah": 2, "ayat": 75 },
+                    { "surah": 2, "ayat": 79 },
+                    { "surah": 2, "ayat": 91 },
+                    { "surah": 2, "ayat": 101 },
+                    { "surah": 4, "ayat": 47 },
+                    { "surah": 5, "ayat": 13 },
+                    { "surah": 5, "ayat": 15 },
+                    { "surah": 5, "ayat": 41 },
+                    { "surah": 6, "ayat": 91 }
+                  ]
+                },
+                {
+                  "MEREKA MENCOBA MENIPU ORANG-ORANG MU'MIN": [
+                    { "surah": 2, "ayat": 76 },
+                    { "surah": 5, "ayat": 61 }
+                  ]
+                },
+                {
+                  "PERMUSUHANNYA TERHADAP KAUM MUSLIMIN": [
+                    { "surah": 2, "ayat": 105 },
+                    { "surah": 2, "ayat": 109 },
+                    { "surah": 2, "ayat": 120 },
+                    { "surah": 2, "ayat": 145 },
+                    { "surah": 3, "ayat": 69 },
+                    { "surah": 4, "ayat": 44 },
+                    { "surah": 4, "ayat": 45 },
+                    { "surah": 4, "ayat": 51 },
+                    { "surah": 4, "ayat": 54 },
+                    { "surah": 5, "ayat": 64 },
+                    { "surah": 5, "ayat": 82 }
+                  ]
+                },
+                {
+                  "MEREKA MENGHARAP DIMASUKKAN SURGA": [
+                    { "surah": 2, "ayat": 111 }
+                  ]
+                },
+                {
+                  "SIKAP MAYORITAS MEREKA": [
+                    { "surah": 2, "ayat": 75 },
+                    { "surah": 2, "ayat": 76 },
+                    { "surah": 2, "ayat": 105 },
+                    { "surah": 2, "ayat": 109 },
+                    { "surah": 2, "ayat": 120 },
+                    { "surah": 2, "ayat": 145 },
+                    { "surah": 3, "ayat": 69 },
+                    { "surah": 3, "ayat": 72 },
+                    { "surah": 3, "ayat": 120 },
+                    { "surah": 5, "ayat": 61 }
+                  ]
+                }
+              ]
+            },
+            {
+              "FIQH INTERAKSI DENGAN MEREKA": [
+                {
+                  "HARUS HATI-HATI DALAM BERINTERAKSI DENGAN MEREKA": [
+                    { "surah": 5, "ayat": 48 },
+                    { "surah": 5, "ayat": 49 }
+                  ]
+                },
+                {
+                  "SYARAT BERTEMAN DENGAN MEREKA": [
+                    { "surah": 60, "ayat": 8 },
+                    { "surah": 60, "ayat": 9 }
+                  ]
+                },
+                {
+                  "TIDAK BOLEH MENJADIKAN MEREKA WALI/PEMIMPIN/WAKIL": [
+                    { "surah": 3, "ayat": 118 },
+                    { "surah": 3, "ayat": 119 },
+                    { "surah": 5, "ayat": 51 },
+                    { "surah": 70, "ayat": 8 },
+                    { "surah": 70, "ayat": 9 }
+                  ]
+                },
+                { "BOLEH MAKAN MAKANAN MEREKA": [{ "surah": 5, "ayat": 5 }] },
+                {
+                  "BOLEH MENIKAHI PUTRI-PUTRI MEREKA": [
+                    { "surah": 5, "ayat": 5 }
+                  ]
+                }
+              ]
+            },
+            {
+              "FIQH DAKWAH KEPADA MEREKA": [
+                {
+                  "AJAKLAH MEREKA BERDEBAT DENGAN BIJAK DAN ARIF": [
+                    { "surah": 16, "ayat": 125 },
+                    { "surah": 29, "ayat": 46 }
+                  ]
+                },
+                {
+                  "AJAK MEREKA UNTUK TIDAK FANATIK DENGAN AGAMA MEREKA": [
+                    { "surah": 4, "ayat": 47 },
+                    { "surah": 5, "ayat": 15 }
+                  ]
+                },
+                {
+                  "AJAK MEREKA UNTUK BERIMAN DENGAN AJARAN NABI MUHAMMAD SAW": [
+                    { "surah": 4, "ayat": 47 },
+                    { "surah": 5, "ayat": 15 },
+                    { "surah": 5, "ayat": 19 },
+                    { "surah": 27, "ayat": 19 },
+                    { "surah": 98, "ayat": 1 },
+                    { "surah": 98, "ayat": 2 },
+                    { "surah": 98, "ayat": 3 },
+                    { "surah": 98, "ayat": 4 },
+                    { "surah": 98, "ayat": 5 }
+                  ]
+                },
+                {
+                  "AJAK MEREKA UNTUK MENGAMALKAN INJIL DAN TAURAT SECARA UTUH": [
+                    { "surah": 5, "ayat": 65 },
+                    { "surah": 5, "ayat": 66 },
+                    { "surah": 5, "ayat": 68 }
+                  ]
+                },
+                {
+                  "JELASKAN TENTANG POSISI NABI IBRAHIM AS.": [
+                    { "surah": 2, "ayat": 140 },
+                    { "surah": 3, "ayat": 65 },
+                    { "surah": 3, "ayat": 66 },
+                    { "surah": 3, "ayat": 67 },
+                    { "surah": 16, "ayat": 120 }
+                  ]
+                },
+                {
+                  "PERTANYAKANLAH MEREKA TENTANG BEBERAPA HAL": [
+                    { "surah": 3, "ayat": 70 },
+                    { "surah": 3, "ayat": 71 },
+                    { "surah": 3, "ayat": 98 },
+                    { "surah": 3, "ayat": 99 }
+                  ]
+                },
+                {
+                  "PAHALA BAGI ORANG YANG MU'MIN DARI GOLONGAN MEREKA": [
+                    { "surah": 2, "ayat": 62 },
+                    { "surah": 2, "ayat": 103 },
+                    { "surah": 2, "ayat": 137 },
+                    { "surah": 3, "ayat": 20 },
+                    { "surah": 3, "ayat": 115 },
+                    { "surah": 3, "ayat": 199 },
+                    { "surah": 4, "ayat": 66 },
+                    { "surah": 4, "ayat": 67 },
+                    { "surah": 5, "ayat": 12 },
+                    { "surah": 7, "ayat": 170 }
+                  ]
+                },
+                {
+                  "WAKTU DIPERBOLEHKAN MEMERANGI MEREKA": [
+                    { "surah": 9, "ayat": 29 }
+                  ]
+                },
+                {
+                  "WAKTU DIPERBOLEHKAN BERDAMAI DENGAN MEREKA": [
+                    { "surah": 8, "ayat": 61 }
+                  ]
+                }
+              ]
+            },
+            {
+              "KELOMPOK-KELOMPOK MEREKA": [
+                { "surah": 3, "ayat": 113 },
+                { "surah": 3, "ayat": 114 },
+                { "surah": 3, "ayat": 115 }
+              ]
+            }
+          ]
+        },
+        {
+          "MAJUSI": [
+            {
+              "PENGIKUT MAJUSI AKAN DIADILI DI AKHIRAT": [
+                { "surah": 22, "ayat": 17 }
+              ]
+            }
+          ]
+        },
+        {
+          "ISLAM": [
+            {
+              "ISLAM SEBAGAI AGAMA YANG PALING SEMPURNA": [
+                { "surah": 5, "ayat": 3 }
+              ]
+            },
+            {
+              "ISLAM SEBAGAI AGAMA YANG DIRIDHOI ALLAH SWT": [
+                { "surah": 5, "ayat": 3 }
+              ]
+            },
+            {
+              "JANGANLAH MATI KECUALI TETAP MEMELUK ISLAM": [
+                { "surah": 3, "ayat": 102 },
+                { "surah": 10, "ayat": 104 }
+              ]
+            }
+          ]
+        }
       ],
       "KONSEP HIDAYAH": [
-        { "HIDAYAH ITU HARUS DICARI": [] },
-        { "ALLAH LAH YANG MEMBERI HIDAYAH": [] },
-        { "ALLAH MEMBERI PILIHAN": [] }
+        { "HIDAYAH ITU HARUS DICARI": [{ "surah": 17, "ayat": 15 }] },
+        {
+          "ALLAH LAH YANG MEMBERI HIDAYAH": [
+            {
+              "ALLAH MEMBERI HIDAYAH KEPADA ORANG YANG DIA KEHENDAKI": [
+                { "surah": 2, "ayat": 142 },
+                { "surah": 2, "ayat": 213 },
+                { "surah": 2, "ayat": 272 },
+                { "surah": 6, "ayat": 88 },
+                { "surah": 22, "ayat": 16 },
+                { "surah": 24, "ayat": 35 },
+                { "surah": 24, "ayat": 46 },
+                { "surah": 28, "ayat": 56 },
+                { "surah": 39, "ayat": 23 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA KAUM YANG ZALIM": [
+                { "surah": 2, "ayat": 258 },
+                { "surah": 3, "ayat": 86 },
+                { "surah": 5, "ayat": 51 },
+                { "surah": 6, "ayat": 144 },
+                { "surah": 9, "ayat": 19 },
+                { "surah": 9, "ayat": 109 },
+                { "surah": 28, "ayat": 50 },
+                { "surah": 46, "ayat": 10 },
+                { "surah": 61, "ayat": 7 },
+                { "surah": 62, "ayat": 5 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA KAUM YANG FASIK": [
+                { "surah": 5, "ayat": 108 },
+                { "surah": 9, "ayat": 24 },
+                { "surah": 9, "ayat": 80 },
+                { "surah": 61, "ayat": 5 },
+                { "surah": 63, "ayat": 6 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA KAUM YANG KAFIR": [
+                { "surah": 2, "ayat": 264 },
+                { "surah": 5, "ayat": 67 },
+                { "surah": 9, "ayat": 37 },
+                { "surah": 16, "ayat": 107 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA ORANG YANG DISESATKAN": [
+                { "surah": 16, "ayat": 37 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA PEMBOHONG DAN SANGAT INGKAR": [
+                { "surah": 39, "ayat": 3 }
+              ]
+            },
+            {
+              "ALLAH TIDAK MEMBERI HIDAYAH KEPADA ORANG YANG MELAMPAUI BATAS LAGI PENDUSTA": [
+                { "surah": 40, "ayat": 28 }
+              ]
+            },
+            {
+              "ALLAH MEMBERI HIDAYA KE JALAN YANG LURUS": [
+                { "surah": 1, "ayat": 6 },
+                { "surah": 4, "ayat": 68 },
+                { "surah": 4, "ayat": 175 },
+                { "surah": 37, "ayat": 118 },
+                { "surah": 46, "ayat": 30 },
+                { "surah": 48, "ayat": 2 },
+                { "surah": 48, "ayat": 20 }
+              ]
+            },
+            { "ALLAH YANG MEMBERIKAN HIDAYAH": [{ "surah": 49, "ayat": 17 }] }
+          ]
+        },
+        {
+          "ALLAH MEMBERI PILIHAN": [
+            { "surah": 76, "ayat": 3 },
+            { "surah": 90, "ayat": 10 }
+          ]
+        }
       ],
       "HUBUNGAN ANTAR UMMAT BERAGAMA": [
-        { "TIDAK BOLEH MENCACI TUHAN AGAMA LAIN": [] }
+        {
+          "TIDAK BOLEH MENCACI TUHAN AGAMA LAIN": [{ "surah": 6, "ayat": 108 }]
+        }
       ]
     }
   },
