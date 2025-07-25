@@ -7827,51 +7827,468 @@
         }
       ],
       "SESAT": [
-        { "ALLAH MAHA TAHU SIAPA SAJA YANG SESAT": [] },
-        { "ALLAH MAHA TAHU SIAPA SESAT DAN SIAPA TIDAK": [] },
-        { "NABI MUHAMMAD SAW BUKAN ORANG YANG SESAT": [] },
-        { "ALLAH MENYESATKAN SIAPA SAJA YANG DIA KEHENDAKI": [] },
-        { "ORANG YANG SESAT MERUGIKAN DIRI SENDIRI": [] },
-        { "CIRI ORANG SESAT": [] },
-        { "KESESATAN YANG PALING SESAT": [] },
-        { "DAMPAK ORANG SESAT BAGI ORANG MU'MIN": [] },
-        { "MAYORITAS MANUSIA SUDAH SESAT": [] },
-        { "ORANG YANG SESAT TIDAK ADA PENOLONGNYA DI HARI KIAMAT": [] },
-        { "MENGHINDARI KESESATAN": [] }
+        {
+          "ALLAH MAHA TAHU SIAPA SAJA YANG SESAT": [{ "surah": 67, "ayat": 29 }]
+        },
+        {
+          "ALLAH MAHA TAHU SIAPA SESAT DAN SIAPA TIDAK": [
+            { "surah": 6, "ayat": 117 },
+            { "surah": 16, "ayat": 125 },
+            { "surah": 53, "ayat": 30 },
+            { "surah": 68, "ayat": 7 }
+          ]
+        },
+        {
+          "NABI MUHAMMAD SAW BUKAN ORANG YANG SESAT": [
+            { "surah": 53, "ayat": 2 }
+          ]
+        },
+        {
+          "ALLAH MENYESATKAN SIAPA SAJA YANG DIA KEHENDAKI": [
+            { "surah": 2, "ayat": 26 },
+            { "surah": 13, "ayat": 27 },
+            { "surah": 16, "ayat": 93 },
+            { "surah": 35, "ayat": 8 },
+            { "surah": 74, "ayat": 31 }
+          ]
+        },
+        {
+          "ORANG YANG SESAT MERUGIKAN DIRI SENDIRI": [
+            { "surah": 10, "ayat": 108 },
+            { "surah": 17, "ayat": 15 },
+            { "surah": 34, "ayat": 50 },
+            { "surah": 39, "ayat": 41 }
+          ]
+        },
+        {
+          "CIRI ORANG SESAT": [
+            {
+              "MENGGANTI IMAN DENGAN KUFUR": [
+                { "surah": 2, "ayat": 108 },
+                { "surah": 5, "ayat": 12 }
+              ]
+            },
+            {
+              "MENGIRA DIRINYA SUDAH BERBUAT BAIK": [
+                { "surah": 18, "ayat": 104 },
+                { "surah": 35, "ayat": 8 }
+              ]
+            },
+            {
+              "MA'SIAT TERHADAP ALLAH DAN RASUL-NYA": [
+                { "surah": 33, "ayat": 36 }
+              ]
+            },
+            {
+              "MENJADIKAN MUSUH SEBAGAI WALI/PELINDUNG": [
+                { "surah": 60, "ayat": 1 }
+              ]
+            },
+            { "RENTENIR PEMAKAN RIBA": [{ "surah": 2, "ayat": 275 }] },
+            { "MELAMPAUI BATAS DAN RAGU-RAGU": [{ "surah": 40, "ayat": 34 }] },
+            { "KAFIR/KUFUR": [{ "surah": 40, "ayat": 74 }] }
+          ]
+        },
+        {
+          "KESESATAN YANG PALING SESAT": [
+            { "MENSEKUTUKAN ALLAH": [{ "surah": 4, "ayat": 116 }] },
+            {
+              "TIDAK PERCAYA KEPADA ALLAH, MALAIKAT, KITAB-KITABNYA, RASUL-RASUL-NYA DAN HARI KIAMAT": [
+                { "surah": 4, "ayat": 136 }
+              ]
+            }
+          ]
+        },
+        {
+          "DAMPAK ORANG SESAT BAGI ORANG MU'MIN": [
+            {
+              "TIDAK BERPENGARUH KEPADA ORANG MU'MIN": [
+                { "surah": 5, "ayat": 105 },
+                { "surah": 17, "ayat": 15 }
+              ]
+            },
+            {
+              "NABI SAW HANYA SEBAGAI PENGINGAT": [
+                { "surah": 10, "ayat": 108 },
+                { "surah": 27, "ayat": 92 },
+                { "surah": 39, "ayat": 41 },
+                { "surah": 88, "ayat": 21 }
+              ]
+            }
+          ]
+        },
+        { "MAYORITAS MANUSIA SUDAH SESAT": [{ "surah": 37, "ayat": 71 }] },
+        {
+          "ORANG YANG SESAT TIDAK ADA PENOLONGNYA DI HARI KIAMAT": [
+            { "surah": 16, "ayat": 37 }
+          ]
+        },
+        {
+          "MENGHINDARI KESESATAN": [
+            { "MENGIKUTI PETUNJUK ALLAH": [{ "surah": 20, "ayat": 123 }] }
+          ]
+        }
       ],
       "HIDAYAH": [
-        { "HANYA ALLAH YANG DAPAT MEMBERI HIDAYAH": [] },
-        { "ALLAH MEMBERI HIDAYAH KEPADA SIAPA YANG DIKEHENDAKI": [] },
-        { "ALLAH MENUNJUKKAN KE JALAN YANG LURUS": [] },
-        { "ALLAH MENUNJUKKAN KE JALAN YANG HAQ/BENAR": [] },
-        { "ALLAH MENUNJUKKAN KE RUSD/BENAR": [] },
-        { "ALLAH TIDAK MEMBERI HIDAYAH KEPADA :": [] }
+        {
+          "HANYA ALLAH YANG DAPAT MEMBERI HIDAYAH": [
+            { "surah": 10, "ayat": 43 },
+            { "surah": 28, "ayat": 56 },
+            { "surah": 43, "ayat": 40 }
+          ]
+        },
+        {
+          "ALLAH MEMBERI HIDAYAH KEPADA SIAPA YANG DIKEHENDAKI": [
+            { "surah": 2, "ayat": 142 },
+            { "surah": 2, "ayat": 213 },
+            { "surah": 2, "ayat": 272 },
+            { "surah": 10, "ayat": 25 },
+            { "surah": 14, "ayat": 4 },
+            { "surah": 16, "ayat": 93 },
+            { "surah": 24, "ayat": 46 },
+            { "surah": 28, "ayat": 56 },
+            { "surah": 35, "ayat": 8 },
+            { "surah": 74, "ayat": 31 }
+          ]
+        },
+        {
+          "ALLAH MENUNJUKKAN KE JALAN YANG LURUS": [
+            { "surah": 2, "ayat": 142 },
+            { "surah": 2, "ayat": 213 },
+            { "surah": 24, "ayat": 46 }
+          ]
+        },
+        {
+          "ALLAH MENUNJUKKAN KE JALAN YANG HAQ/BENAR": [
+            { "surah": 10, "ayat": 35 },
+            { "surah": 46, "ayat": 30 }
+          ]
+        },
+        { "ALLAH MENUNJUKKAN KE RUSD/BENAR": [{ "surah": 72, "ayat": 2 }] },
+        {
+          "ALLAH TIDAK MEMBERI HIDAYAH KEPADA :": [
+            {
+              "ORANG YANG ZALIM": [
+                { "surah": 2, "ayat": 258 },
+                { "surah": 3, "ayat": 86 },
+                { "surah": 5, "ayat": 51 },
+                { "surah": 6, "ayat": 144 },
+                { "surah": 9, "ayat": 19 },
+                { "surah": 9, "ayat": 109 },
+                { "surah": 28, "ayat": 50 },
+                { "surah": 46, "ayat": 10 },
+                { "surah": 61, "ayat": 7 },
+                { "surah": 62, "ayat": 5 }
+              ]
+            },
+            {
+              "ORANG YANG FASIK": [
+                { "surah": 5, "ayat": 108 },
+                { "surah": 9, "ayat": 24 },
+                { "surah": 9, "ayat": 80 },
+                { "surah": 61, "ayat": 5 }
+              ]
+            },
+            {
+              "ORANG YANG KAFIR": [
+                { "surah": 2, "ayat": 264 },
+                { "surah": 5, "ayat": 67 },
+                { "surah": 9, "ayat": 37 },
+                { "surah": 16, "ayat": 107 }
+              ]
+            },
+            { "PEMBOHONG DAN SANGAT INGKAR": [{ "surah": 39, "ayat": 3 }] },
+            { "ORANG YANG SESAT": [{ "surah": 16, "ayat": 37 }] },
+            { "ORANG YANG BERKHIANAT": [{ "surah": 12, "ayat": 52 }] },
+            { "BERLEBIHAN LAGI PENDUSTA": [{ "surah": 40, "ayat": 28 }] }
+          ]
+        }
       ],
       "KEHIDUPAN DUNIA": [
-        { "BERMEGAH-MEGAHAN SERING MELALAIKAN MANUSIA": [] },
-        { "KELALAIAN ITU SERING TERBAWA SAMPAI MATI": [] }
+        {
+          "BERMEGAH-MEGAHAN SERING MELALAIKAN MANUSIA": [
+            { "surah": 102, "ayat": 1 }
+          ]
+        },
+        {
+          "KELALAIAN ITU SERING TERBAWA SAMPAI MATI": [
+            { "surah": 102, "ayat": 2 }
+          ]
+        }
       ],
       "HARTA": [
-        { "HARTA ADALAH PERHIASAN DUNIA": [] },
-        { "MANUSIA PADA DASARNYA ADALAH PENCINTA HARTA": [] },
-        { "HARTA ITU UJIAN BUAT MANUSIA": [] },
-        { "MANUSIA AKAN DIUJI DENGAN HARTA YANG DITITIPKAN KEPADANYA": [] },
-        { "JANGAN SAMPAI HARTA ITU MELALAIKAN KITA DARI ZIKRULLAH": [] },
-        { "JANGAN MENCARI HARTA DENGAN JALAN KEBATILAN": [] },
-        { "JANGAN MAKAN HARTA ANAK YATIM": [] },
+        { "HARTA ADALAH PERHIASAN DUNIA": [{ "surah": 18, "ayat": 46 }] },
         {
-          "JANGAN MENYERAHKAN URUSAN PENGELOLAAN HARTA KEPADA ORANG YANG BODOH": []
+          "MANUSIA PADA DASARNYA ADALAH PENCINTA HARTA": [
+            { "surah": 89, "ayat": 20 }
+          ]
         },
-        { "YANG TERBAIK ADALAH MENGINFAKKAN HARTA SESUAI ATURAN ALLAH": [] },
-        { "CELAKALAH BAGI PENIMBUN HARTA": [] },
-        { "ANCAMAN BAGI YANG TIDAK MENGELUARKAN ZAKAT": [] },
-        { "PEMAKAN RIBA": [] }
+        {
+          "HARTA ITU UJIAN BUAT MANUSIA": [
+            { "surah": 8, "ayat": 28 },
+            { "surah": 64, "ayat": 15 }
+          ]
+        },
+        {
+          "MANUSIA AKAN DIUJI DENGAN HARTA YANG DITITIPKAN KEPADANYA": [
+            { "surah": 3, "ayat": 186 }
+          ]
+        },
+        {
+          "JANGAN SAMPAI HARTA ITU MELALAIKAN KITA DARI ZIKRULLAH": [
+            { "surah": 63, "ayat": 9 }
+          ]
+        },
+        {
+          "JANGAN MENCARI HARTA DENGAN JALAN KEBATILAN": [
+            { "surah": 2, "ayat": 188 },
+            { "surah": 4, "ayat": 29 }
+          ]
+        },
+        { "JANGAN MAKAN HARTA ANAK YATIM": [{ "surah": 4, "ayat": 2 }] },
+        {
+          "JANGAN MENYERAHKAN URUSAN PENGELOLAAN HARTA KEPADA ORANG YANG BODOH": [
+            { "surah": 4, "ayat": 5 }
+          ]
+        },
+        {
+          "YANG TERBAIK ADALAH MENGINFAKKAN HARTA SESUAI ATURAN ALLAH": [
+            { "surah": 2, "ayat": 177 }
+          ]
+        },
+        {
+          "CELAKALAH BAGI PENIMBUN HARTA": [
+            { "surah": 9, "ayat": 34 },
+            { "surah": 9, "ayat": 35 }
+          ]
+        },
+        {
+          "ANCAMAN BAGI YANG TIDAK MENGELUARKAN ZAKAT": [
+            { "surah": 2, "ayat": 279 }
+          ]
+        },
+        {
+          "PEMAKAN RIBA": [
+            { "surah": 2, "ayat": 275 },
+            { "surah": 3, "ayat": 130 }
+          ]
+        }
       ],
-      "AMAR MA'RUF NAHI MUNKAR": [],
-      "FITNAH": [],
-      "LAPAR": [],
-      "JIWA": [],
-      "SAKIT DAN MENYAKITI": []
+      "AMAR MA'RUF NAHI MUNKAR": [
+        {
+          "PERINTAH UNTUK MELAKUKAN AMAR MA'RUF NAHI MUNKAR": [
+            { "surah": 3, "ayat": 104 }
+          ]
+        },
+        {
+          "UMMAT ISLAM MEMBAWA MISI AMAR MA'RUF NAHI MUNKAR": [
+            { "surah": 3, "ayat": 110 }
+          ]
+        },
+        {
+          "ORANG-ORANG SHALEH MELAKUKAN AMAR MA'RUF NAHI MUNKAR": [
+            { "surah": 3, "ayat": 114 }
+          ]
+        },
+        {
+          "SAHABAT NABI MELAKUKAN AMAR MA'RUF NAHI MUNKAR": [
+            { "surah": 7, "ayat": 157 }
+          ]
+        },
+        {
+          "ORANG-ORANG MU'MIN MELAKUKAN AMAR MA'RUF NAHI MUNKAR": [
+            { "surah": 9, "ayat": 71 },
+            { "surah": 9, "ayat": 112 }
+          ]
+        },
+        {
+          "LUKMANUL HAKIM MENASEHATI ANAKNYA UNTUK MELAKUKAN INI": [
+            { "surah": 31, "ayat": 17 }
+          ]
+        }
+      ],
+      "FITNAH": [
+        {
+          "FITNAH BERDAMPAK BUKAN HANYA KEPADA PELAKU": [
+            { "surah": 8, "ayat": 25 }
+          ]
+        },
+        {
+          "HARTA DAN ANAK JUGA MERUPAKAN FITNAH": [{ "surah": 8, "ayat": 28 }]
+        },
+        {
+          "DOA TERHINDAR FITNAH": [
+            { "surah": 10, "ayat": 85 },
+            { "surah": 60, "ayat": 5 }
+          ]
+        }
+      ],
+      "LAPAR": [
+        {
+          "MANUSIA DIUJI DENGAN LAPAR/KELAPARAN": [{ "surah": 2, "ayat": 155 }]
+        },
+        {
+          "LAPAR AKAN MENJADI AZAB BAGI YANG TIDAK PERCAYA DENGAN NIKMAT ALLAH": [
+            { "surah": 16, "ayat": 112 }
+          ]
+        },
+        {
+          "KESEJAHTERAAN SEJATI JIKA TERBEBAS DARI LAPAR": [
+            { "surah": 106, "ayat": 1 },
+            { "surah": 106, "ayat": 2 },
+            { "surah": 106, "ayat": 3 },
+            { "surah": 106, "ayat": 4 }
+          ]
+        },
+        {
+          "DI SURGA TIDAK DIKENAL ISTILAH LAPAR DAN KELAPARAN": [
+            { "surah": 20, "ayat": 117 },
+            { "surah": 20, "ayat": 118 }
+          ]
+        }
+      ],
+      "JIWA": [
+        {
+          "KLASIFIKASI": [
+            {
+              "AMMARAH BISSU'": [
+                { "surah": 4, "ayat": 79 },
+                { "surah": 12, "ayat": 53 }
+              ]
+            },
+            {
+              "LAWWAMAH": [
+                { "surah": 75, "ayat": 1 },
+                { "surah": 75, "ayat": 2 }
+              ]
+            },
+            {
+              "MUTMA'INNAH": [
+                { "surah": 89, "ayat": 27 },
+                { "surah": 89, "ayat": 28 },
+                { "surah": 89, "ayat": 29 },
+                { "surah": 89, "ayat": 30 }
+              ]
+            }
+          ]
+        },
+        {
+          "ALLAH MENGETAHUI JIWA YANG PALING DALAM": [
+            { "surah": 2, "ayat": 235 },
+            { "surah": 2, "ayat": 284 },
+            { "surah": 5, "ayat": 116 },
+            { "surah": 13, "ayat": 42 },
+            { "surah": 17, "ayat": 25 },
+            { "surah": 33, "ayat": 37 },
+            { "surah": 50, "ayat": 16 },
+            { "surah": 91, "ayat": 7 },
+            { "surah": 91, "ayat": 8 }
+          ]
+        },
+        {
+          "MANUSIA DICIPTAKAN BERASAL DARI JIWA YANG SATU": [
+            { "surah": 4, "ayat": 1 },
+            { "surah": 6, "ayat": 98 },
+            { "surah": 7, "ayat": 189 },
+            { "surah": 30, "ayat": 21 },
+            { "surah": 39, "ayat": 6 }
+          ]
+        },
+        {
+          "SETIAP JIWA MENERIMA MANFAAT KEBAIKAN DAN MENANGGUNG AKIBAT KEBURUKAN": [
+            { "surah": 2, "ayat": 281 },
+            { "surah": 3, "ayat": 25 },
+            { "surah": 3, "ayat": 30 },
+            { "surah": 3, "ayat": 161 },
+            { "surah": 10, "ayat": 30 },
+            { "surah": 14, "ayat": 51 },
+            { "surah": 16, "ayat": 111 },
+            { "surah": 20, "ayat": 15 },
+            { "surah": 39, "ayat": 70 },
+            { "surah": 40, "ayat": 17 },
+            { "surah": 45, "ayat": 22 },
+            { "surah": 74, "ayat": 38 }
+          ]
+        }
+      ],
+      "SAKIT DAN MENYAKITI": [
+        {
+          "SAKIT SEBAGAI ALASAN SYAR'I": [
+            { "surah": 2, "ayat": 183 },
+            { "surah": 2, "ayat": 184 },
+            { "surah": 2, "ayat": 185 },
+            { "surah": 2, "ayat": 196 },
+            { "surah": 4, "ayat": 102 }
+          ]
+        },
+        {
+          "TIDAK MENGGAULI ISTRI KETIKA HAID KARENA AKAN MENYAKITI": [
+            { "surah": 2, "ayat": 222 }
+          ]
+        },
+        {
+          "MENYAKITI HATI PENERIMA SADAQAH AKAN MELUNTURKAN PAHALANYA": [
+            { "surah": 2, "ayat": 262 },
+            { "surah": 2, "ayat": 263 },
+            { "surah": 2, "ayat": 264 }
+          ]
+        },
+        {
+          "SABAR SETELAH DISAKITI MERUPAKAN TANDA KEIMANAN": [
+            { "surah": 3, "ayat": 186 },
+            { "surah": 14, "ayat": 11 },
+            { "surah": 14, "ayat": 12 },
+            { "surah": 85, "ayat": 4 },
+            { "surah": 85, "ayat": 5 },
+            { "surah": 85, "ayat": 6 },
+            { "surah": 85, "ayat": 7 },
+            { "surah": 85, "ayat": 8 }
+          ]
+        },
+        {
+          "PERTOLONGAN ALLAH KEPADA MEREKA YANG DISAKITI DI JALAN ALLAH": [
+            { "surah": 3, "ayat": 120 },
+            { "surah": 3, "ayat": 195 },
+            { "surah": 6, "ayat": 34 },
+            { "surah": 7, "ayat": 129 },
+            { "surah": 8, "ayat": 17 },
+            { "surah": 8, "ayat": 18 },
+            { "surah": 8, "ayat": 30 },
+            { "surah": 14, "ayat": 13 },
+            { "surah": 14, "ayat": 14 },
+            { "surah": 16, "ayat": 127 },
+            { "surah": 16, "ayat": 128 },
+            { "surah": 20, "ayat": 68 },
+            { "surah": 20, "ayat": 69 },
+            { "surah": 20, "ayat": 70 },
+            { "surah": 105, "ayat": 1 },
+            { "surah": 105, "ayat": 2 },
+            { "surah": 105, "ayat": 3 },
+            { "surah": 105, "ayat": 4 },
+            { "surah": 105, "ayat": 5 }
+          ]
+        },
+        {
+          "BALASAN BAGI YANG MENYAKITI ORANG MU'MIN ATAU MU'MINAH": [
+            { "surah": 33, "ayat": 58 }
+          ]
+        },
+        { "LARANGAN MENYAKITI RASULULLAH SAW": [{ "surah": 33, "ayat": 53 }] },
+        {
+          "RASULULLAH SAW JUGA DISAKITI OLEH ORANG-ORANG KAFIR": [
+            { "surah": 6, "ayat": 34 },
+            { "surah": 33, "ayat": 69 },
+            { "surah": 61, "ayat": 5 },
+            { "surah": 61, "ayat": 6 }
+          ]
+        },
+        {
+          "BALASAN BAGI MEREKA YANG MENYAKITI RASULULLAH": [
+            { "surah": 9, "ayat": 61 },
+            { "surah": 33, "ayat": 57 }
+          ]
+        }
+      ]
     }
   },
   "SYARIAH": {},
