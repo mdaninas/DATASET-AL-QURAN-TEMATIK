@@ -15152,117 +15152,1419 @@
         },
         {
           "PERANG AHZAB": [
-            { "UJIAN YANG SANGAT BESAR BAGI KAUM MUSLIMIN YANG TERKEPUNG": [] },
-            { "PARA MU'MININ BERTAHAN DAN PERCAYA DENGAN JANJI ALLAH": [] },
-            { "TERBONGKARNYA KEMUNAFIKAN": [] },
-            { "ORANG-ORANG MUNAFIK MNTA IZIN UNTUK TIDAK BERPERANG": [] },
-            { "AL-QUR'AN MENJELASKAN TENTANG SIKAP ORANG-ORANG MUNAFIK": [] },
-            { "TENTARA MUSUH KEMBALI TANPA PERANG": [] }
+            {
+              "UJIAN YANG SANGAT BESAR BAGI KAUM MUSLIMIN YANG TERKEPUNG": [
+                { "surah": 33, "ayat": 10 },
+                { "surah": 33, "ayat": 11 }
+              ]
+            },
+            {
+              "PARA MU'MININ BERTAHAN DAN PERCAYA DENGAN JANJI ALLAH": [
+                { "surah": 33, "ayat": 22 },
+                { "surah": 33, "ayat": 23 }
+              ]
+            },
+            { "TERBONGKARNYA KEMUNAFIKAN": [{ "surah": 33, "ayat": 12 }] },
+            {
+              "ORANG-ORANG MUNAFIK MNTA IZIN UNTUK TIDAK BERPERANG": [
+                { "surah": 33, "ayat": 13 }
+              ]
+            },
+            {
+              "AL-QUR'AN MENJELASKAN TENTANG SIKAP ORANG-ORANG MUNAFIK": [
+                { "surah": 33, "ayat": 14 },
+                { "surah": 33, "ayat": 15 },
+                { "surah": 33, "ayat": 18 },
+                { "surah": 33, "ayat": 19 },
+                { "surah": 33, "ayat": 20 }
+              ]
+            },
+            {
+              "TENTARA MUSUH KEMBALI TANPA PERANG": [
+                { "surah": 33, "ayat": 9 },
+                { "surah": 33, "ayat": 25 }
+              ]
+            }
           ]
         },
         {
           "PERANG BANI QURAIDHZAH": [
-            { "SIKAP ABU LUBABAH": [] },
-            { "AKIBAT PASTI KAUM MUNAFIK DAN PENGKHIANAT": [] }
+            {
+              "SIKAP ABU LUBABAH": [
+                { "surah": 8, "ayat": 27 },
+                { "surah": 8, "ayat": 28 },
+                { "surah": 9, "ayat": 102 },
+                { "surah": 9, "ayat": 103 },
+                { "surah": 9, "ayat": 104 }
+              ]
+            },
+            {
+              "AKIBAT PASTI KAUM MUNAFIK DAN PENGKHIANAT": [
+                { "surah": 33, "ayat": 26 },
+                { "surah": 33, "ayat": 27 }
+              ]
+            }
           ]
         },
         {
           "PERANG BANI AL-MUSHTHALIQ": [
-            { "KABAR DUSTA TENTANG AISYAH": [] },
-            { "PERAN ABDULLAH IBN UBAY IBN SALUL": [] },
-            { "HIKMAH DI BALIK UJIAN INI": [] },
-            { "RUMAH RASULULLAH SAW SUCI": [] },
-            { "KEWAJIBAN BERHUSNU DZAN TERHADAP UMMU AL MU'MININ": [] },
-            { "SYARAT BUKTI ADANYA EMPAT SAKSI": [] },
-            { "HAD QADZF ADALAH HUKUMAN YANG MEMBUAT JERA": [] },
-            { "PENYELESAIAN ANTARA SUAMI DAN ISTERI": [] },
             {
-              "PERINGATAN APABILA TIDAK MENCARI TAHU TENTANG KEBENARAN SUATU KABAR": []
+              "KABAR DUSTA TENTANG AISYAH": [
+                { "surah": 24, "ayat": 11 },
+                { "surah": 24, "ayat": 15 }
+              ]
             },
             {
-              "HUKUMAN BAGI YANG MENYEBARKAN PERBUATAN KEJI ANTARA KAUM MU'MININ": []
+              "PERAN ABDULLAH IBN UBAY IBN SALUL": [{ "surah": 24, "ayat": 11 }]
+            },
+            { "HIKMAH DI BALIK UJIAN INI": [{ "surah": 24, "ayat": 11 }] },
+            { "RUMAH RASULULLAH SAW SUCI": [{ "surah": 24, "ayat": 26 }] },
+            {
+              "KEWAJIBAN BERHUSNU DZAN TERHADAP UMMU AL MU'MININ": [
+                { "surah": 24, "ayat": 12 },
+                { "surah": 24, "ayat": 15 },
+                { "surah": 24, "ayat": 16 },
+                { "surah": 24, "ayat": 21 }
+              ]
             },
             {
-              "LARANGAN BAGI ABU BAKR AGAR TIDAK MEMUTUS BANTUAN DARI MISTHAH": []
+              "SYARAT BUKTI ADANYA EMPAT SAKSI": [{ "surah": 24, "ayat": 13 }]
+            },
+            {
+              "HAD QADZF ADALAH HUKUMAN YANG MEMBUAT JERA": [
+                { "surah": 24, "ayat": 4 },
+                { "surah": 24, "ayat": 5 }
+              ]
+            },
+            {
+              "PENYELESAIAN ANTARA SUAMI DAN ISTERI": [
+                { "surah": 24, "ayat": 8 },
+                { "surah": 24, "ayat": 9 }
+              ]
+            },
+            {
+              "PERINGATAN APABILA TIDAK MENCARI TAHU TENTANG KEBENARAN SUATU KABAR": [
+                { "surah": 24, "ayat": 15 },
+                { "surah": 24, "ayat": 16 },
+                { "surah": 24, "ayat": 17 },
+                { "surah": 24, "ayat": 18 }
+              ]
+            },
+            {
+              "HUKUMAN BAGI YANG MENYEBARKAN PERBUATAN KEJI ANTARA KAUM MU'MININ": [
+                { "surah": 24, "ayat": 14 },
+                { "surah": 24, "ayat": 19 }
+              ]
+            },
+            {
+              "LARANGAN BAGI ABU BAKR AGAR TIDAK MEMUTUS BANTUAN DARI MISTHAH": [
+                { "surah": 24, "ayat": 22 }
+              ]
             }
           ]
         },
         {
           "PERJANJIAN HUDAIBIYAH": [
-            { "KEBENARAN RU'YA": [] },
-            { "YANG TERJADI ADALAH KEMENANGAN YANG BESAR": [] },
-            { "BAIAT AL RIDHWAN": [] },
-            { "YANG TIDAK IKUT SERTA DALAM PERANG INI": [] },
-            { "HUKUMAN DAN COBAAN BAGI MEREKA YANG TIDAK IKUT BERPERANG": [] },
-            { "YANG MEMILIKI UZAR SYAR'I UNTUK TIDAK BERPERANG": [] },
-            { "JANJI KEPADA KAUM MU'MININ": [] },
-            { "MENGECILKAN KEKUATAN PENDUDUK MAKKAH YANG MUSYRIK": [] },
-            { "TERBONGKARNYA KEMUNAFIKAN": [] },
-            { "HIKMAH ALLAH DALAM PERJANJIAN INI": [] },
-            { "PERJANJIAN INI ADALAH PENDAHULUAN PENAKLUKAN MAKKAH": [] },
+            { "KEBENARAN RU'YA": [{ "surah": 48, "ayat": 27 }] },
             {
-              "JANJI BAHWA KAUM MUSLIMIN AKAN MASUK KE MASJID AL HARAM DAN KEMENANGAN DAKWAH": []
+              "YANG TERJADI ADALAH KEMENANGAN YANG BESAR": [
+                { "surah": 48, "ayat": 1 },
+                { "surah": 48, "ayat": 2 },
+                { "surah": 48, "ayat": 3 },
+                { "surah": 48, "ayat": 4 }
+              ]
+            },
+            {
+              "BAIAT AL RIDHWAN": [
+                { "surah": 48, "ayat": 10 },
+                { "surah": 48, "ayat": 18 },
+                { "surah": 48, "ayat": 19 }
+              ]
+            },
+            {
+              "YANG TIDAK IKUT SERTA DALAM PERANG INI": [
+                { "surah": 48, "ayat": 11 },
+                { "surah": 48, "ayat": 12 },
+                { "surah": 48, "ayat": 13 }
+              ]
+            },
+            {
+              "HUKUMAN DAN COBAAN BAGI MEREKA YANG TIDAK IKUT BERPERANG": [
+                { "surah": 48, "ayat": 15 },
+                { "surah": 48, "ayat": 16 }
+              ]
+            },
+            {
+              "YANG MEMILIKI UZAR SYAR'I UNTUK TIDAK BERPERANG": [
+                { "surah": 48, "ayat": 17 }
+              ]
+            },
+            {
+              "JANJI KEPADA KAUM MU'MININ": [
+                { "surah": 48, "ayat": 20 },
+                { "surah": 48, "ayat": 21 }
+              ]
+            },
+            {
+              "MENGECILKAN KEKUATAN PENDUDUK MAKKAH YANG MUSYRIK": [
+                { "surah": 48, "ayat": 22 },
+                { "surah": 48, "ayat": 23 },
+                { "surah": 48, "ayat": 24 },
+                { "surah": 48, "ayat": 25 },
+                { "surah": 48, "ayat": 26 }
+              ]
+            },
+            {
+              "TERBONGKARNYA KEMUNAFIKAN": [
+                { "surah": 48, "ayat": 11 },
+                { "surah": 48, "ayat": 12 },
+                { "surah": 48, "ayat": 13 }
+              ]
+            },
+            {
+              "HIKMAH ALLAH DALAM PERJANJIAN INI": [
+                { "surah": 48, "ayat": 24 },
+                { "surah": 48, "ayat": 25 },
+                { "surah": 48, "ayat": 26 }
+              ]
+            },
+            {
+              "PERJANJIAN INI ADALAH PENDAHULUAN PENAKLUKAN MAKKAH": [
+                { "surah": 48, "ayat": 1 },
+                { "surah": 48, "ayat": 2 },
+                { "surah": 48, "ayat": 3 },
+                { "surah": 48, "ayat": 4 },
+                { "surah": 48, "ayat": 18 },
+                { "surah": 48, "ayat": 19 },
+                { "surah": 48, "ayat": 20 },
+                { "surah": 48, "ayat": 21 },
+                { "surah": 48, "ayat": 22 }
+              ]
+            },
+            {
+              "JANJI BAHWA KAUM MUSLIMIN AKAN MASUK KE MASJID AL HARAM DAN KEMENANGAN DAKWAH": [
+                { "surah": 48, "ayat": 27 },
+                { "surah": 48, "ayat": 28 }
+              ]
             }
           ]
         },
         {
           "FATH MAKKAH": [
-            { "YANG DITURUNKAN TENTANG HATHIB": [] },
-            { "CONTOH YANG HARUS DITELADANI": [] }
+            {
+              "YANG DITURUNKAN TENTANG HATHIB": [
+                { "surah": 60, "ayat": 1 },
+                { "surah": 60, "ayat": 2 },
+                { "surah": 60, "ayat": 3 }
+              ]
+            },
+            { "CONTOH YANG HARUS DITELADANI": [{ "surah": 60, "ayat": 4 }] }
           ]
         },
-        { "PERANG HUNAIN": [{ "TA'JUB DENGAN JUMLAH YANG BANYAK": [] }] },
+        {
+          "PERANG HUNAIN": [
+            {
+              "TA'JUB DENGAN JUMLAH YANG BANYAK": [
+                { "surah": 9, "ayat": 25 },
+                { "surah": 9, "ayat": 26 },
+                { "surah": 9, "ayat": 27 }
+              ]
+            }
+          ]
+        },
         {
           "PERANG TABUK": [
-            { "PERINTAH UNTUK IKUT SERTA DALAM BERPERANG": [] },
-            { "YANG TIDAK IKUT KARENA NIFAK": [] },
-            { "TIGA SAHABAT YANG TERTINGGAL": [] },
-            { "PERINGATAN BAGI KAUM MUNAFIK": [] }
+            {
+              "PERINTAH UNTUK IKUT SERTA DALAM BERPERANG": [
+                { "surah": 9, "ayat": 38 },
+                { "surah": 9, "ayat": 39 },
+                { "surah": 9, "ayat": 40 }
+              ]
+            },
+            {
+              "YANG TIDAK IKUT KARENA NIFAK": [
+                { "surah": 9, "ayat": 42 },
+                { "surah": 9, "ayat": 43 },
+                { "surah": 9, "ayat": 44 },
+                { "surah": 9, "ayat": 45 },
+                { "surah": 9, "ayat": 46 },
+                { "surah": 9, "ayat": 47 },
+                { "surah": 9, "ayat": 48 },
+                { "surah": 9, "ayat": 49 }
+              ]
+            },
+            {
+              "TIGA SAHABAT YANG TERTINGGAL": [
+                { "surah": 9, "ayat": 117 },
+                { "surah": 9, "ayat": 118 }
+              ]
+            },
+            {
+              "PERINGATAN BAGI KAUM MUNAFIK": [
+                { "surah": 9, "ayat": 64 },
+                { "surah": 9, "ayat": 65 },
+                { "surah": 9, "ayat": 66 },
+                { "surah": 9, "ayat": 74 }
+              ]
+            }
           ]
         },
-        { "ISRA' DAN MI'RAJ": [{ "ISRA'": [] }, { "MI'RAJ": [] }] }
+        {
+          "ISRA' DAN MI'RAJ": [
+            { "ISRA'": [{ "surah": 17, "ayat": 1 }] },
+            {
+              "MI'RAJ": [
+                { "surah": 53, "ayat": 1 },
+                { "surah": 53, "ayat": 2 },
+                { "surah": 53, "ayat": 3 },
+                { "surah": 53, "ayat": 4 },
+                { "surah": 53, "ayat": 5 },
+                { "surah": 53, "ayat": 6 },
+                { "surah": 53, "ayat": 7 },
+                { "surah": 53, "ayat": 8 },
+                { "surah": 53, "ayat": 9 },
+                { "surah": 53, "ayat": 10 },
+                { "surah": 53, "ayat": 11 },
+                { "surah": 53, "ayat": 12 },
+                { "surah": 53, "ayat": 13 },
+                { "surah": 53, "ayat": 14 },
+                { "surah": 53, "ayat": 15 },
+                { "surah": 53, "ayat": 16 },
+                { "surah": 53, "ayat": 17 },
+                { "surah": 53, "ayat": 18 }
+              ]
+            }
+          ]
+        }
       ]
     },
     "TOKOH": {
-      "MARYAM": [],
-      "BILQIS": [],
-      "AISYAH": [],
-      "LUKMAN": [],
-      "KHIDIR": [],
-      "ZULQARNAIN": [],
-      "ZAYD IBN HARITSAH": [],
-      "HABIL/KABIL (DUA ANAK NABI ADAM)": [],
-      "QARUN": [],
-      "THALUT": [],
-      "FIR'AUN DAN KAUMNYA": [],
-      "AL-SAMIRI": [],
-      "JALUT": [],
-      "ABU LAHAB": [],
-      "TUBBA'": [],
-      "HAMAN": [],
-      "MU'MIN AL-FIR'AUN": [],
-      "SYAHID KATA-KATA KEBENARAN": [],
-      "PEMBANTU NABI MUSA AS.": [],
-      "IBN UMM MAKTUM": [],
-      "ISTERI FIR'AUN": [],
-      "ISTERI NABI NUH AS.": [],
-      "ISTERI NABI LUTH AS.": [],
-      "ISTERI NABI IBRAHIM AS.": [],
-      "ISTERI NABI 'IMRAN AS.": [],
-      "ISTERI ABU LAHAB": []
+      "MARYAM": [
+        {
+          "ISA SEBAGAI ANAK MARYAM": [
+            { "surah": 2, "ayat": 87 },
+            { "surah": 2, "ayat": 253 },
+            { "surah": 3, "ayat": 45 },
+            { "surah": 4, "ayat": 157 },
+            { "surah": 4, "ayat": 171 },
+            { "surah": 5, "ayat": 17 },
+            { "surah": 5, "ayat": 46 },
+            { "surah": 5, "ayat": 72 },
+            { "surah": 5, "ayat": 75 },
+            { "surah": 5, "ayat": 78 },
+            { "surah": 5, "ayat": 110 },
+            { "surah": 5, "ayat": 112 },
+            { "surah": 5, "ayat": 114 },
+            { "surah": 5, "ayat": 116 },
+            { "surah": 9, "ayat": 31 },
+            { "surah": 23, "ayat": 50 },
+            { "surah": 33, "ayat": 7 },
+            { "surah": 43, "ayat": 57 },
+            { "surah": 57, "ayat": 27 },
+            { "surah": 61, "ayat": 6 },
+            { "surah": 61, "ayat": 14 }
+          ]
+        },
+        { "KELAHIRAN MARYAM": [{ "surah": 3, "ayat": 36 }] },
+        { "KAROMAH MARYAM (DISEDIAKAN MAKANAN)": [{ "surah": 3, "ayat": 37 }] },
+        {
+          "KABAR MALAIKAT TENTANG PEMILIHAN MARYAM SEBAGAI IBU DARI BAYI ISTIMEWA": [
+            { "surah": 3, "ayat": 42 }
+          ]
+        },
+        { "MARYAM DIPERINTAHKAN UNTUK BERSUJUD": [{ "surah": 3, "ayat": 43 }] },
+        { "PENGASUH MARYAM": [{ "surah": 3, "ayat": 44 }] },
+        {
+          "KABAR MALAIKAT TENTANG KEHAMILAN MARYAM": [
+            { "surah": 3, "ayat": 45 },
+            { "surah": 19, "ayat": 19 },
+            { "surah": 19, "ayat": 20 },
+            { "surah": 19, "ayat": 21 },
+            { "surah": 19, "ayat": 22 }
+          ]
+        },
+        {
+          "MARYAM MELAHIRKAN ISA": [
+            { "surah": 19, "ayat": 23 },
+            { "surah": 19, "ayat": 24 },
+            { "surah": 19, "ayat": 25 }
+          ]
+        },
+        {
+          "TUDUHAN ORANG KEPADA MARYAM": [
+            { "surah": 19, "ayat": 27 },
+            { "surah": 19, "ayat": 28 }
+          ]
+        },
+        {
+          "PEMBELAAN ALLAH TERHADAP MARYAM": [
+            { "surah": 19, "ayat": 24 },
+            { "surah": 19, "ayat": 25 },
+            { "surah": 19, "ayat": 26 }
+          ]
+        },
+        {
+          "MARYAM BUKANLAH TUHAN KARENA DAPAT DIHANCURKAN": [
+            { "surah": 5, "ayat": 17 }
+          ]
+        },
+        {
+          "MARYAM DAN NABI ISA AS. SEBAGAI TANDA KEBESARAN ALLAH": [
+            { "surah": 21, "ayat": 91 },
+            { "surah": 23, "ayat": 50 }
+          ]
+        },
+        {
+          "MARYAM DAN NABI ISA AS. DILINDUNGI OLEH ALLAH": [
+            { "surah": 23, "ayat": 50 }
+          ]
+        },
+        {
+          "MARYAM HIDUP MENYENDIRI": [
+            { "surah": 19, "ayat": 16 },
+            { "surah": 19, "ayat": 20 }
+          ]
+        },
+        { "DOA MARYAM": [{ "surah": 19, "ayat": 18 }] },
+        { "NAZAR MARYAM SETELAH MELAHIRKAN": [{ "surah": 19, "ayat": 26 }] },
+        { "MARYAM DITIUPKAN RUH KEPADANYA": [{ "surah": 21, "ayat": 91 }] },
+        { "MARYAM MENJAGA KEHORMATANNYA": [{ "surah": 21, "ayat": 91 }] }
+      ],
+      "BILQIS": [
+        {
+          "KONDISI KERAJAAN YANG DIPIMPIN RATU BILQIS": [
+            { "surah": 27, "ayat": 23 },
+            { "surah": 27, "ayat": 24 }
+          ]
+        },
+        {
+          "NABI SULAIMAN AS. DAN RATU BILQIS": [
+            { "surah": 27, "ayat": 22 },
+            { "surah": 27, "ayat": 23 },
+            { "surah": 27, "ayat": 24 },
+            { "surah": 27, "ayat": 25 },
+            { "surah": 27, "ayat": 26 },
+            { "surah": 27, "ayat": 28 },
+            { "surah": 27, "ayat": 29 },
+            { "surah": 27, "ayat": 30 },
+            { "surah": 27, "ayat": 31 },
+            { "surah": 27, "ayat": 32 },
+            { "surah": 27, "ayat": 33 },
+            { "surah": 27, "ayat": 34 },
+            { "surah": 27, "ayat": 35 }
+          ]
+        },
+        {
+          "SURAT NABI SULAIMAN AS. KEPADA RATU BILQIS": [
+            { "surah": 27, "ayat": 30 },
+            { "surah": 27, "ayat": 31 }
+          ]
+        },
+        {
+          "RESPON RATU BILQIS": [
+            { "surah": 27, "ayat": 32 },
+            { "surah": 27, "ayat": 33 },
+            { "surah": 27, "ayat": 34 },
+            { "surah": 27, "ayat": 35 }
+          ]
+        },
+        {
+          "RESPON BALIK NABI SULAIMAN AS.": [
+            { "surah": 27, "ayat": 36 },
+            { "surah": 27, "ayat": 37 },
+            { "surah": 27, "ayat": 38 },
+            { "surah": 27, "ayat": 39 },
+            { "surah": 27, "ayat": 40 },
+            { "surah": 27, "ayat": 41 }
+          ]
+        },
+        {
+          "RATU BILQIS MENGUNJUNGI NABI SULAIMAN AS.": [
+            { "surah": 27, "ayat": 41 },
+            { "surah": 27, "ayat": 42 },
+            { "surah": 27, "ayat": 43 },
+            { "surah": 27, "ayat": 44 }
+          ]
+        },
+        {
+          "RATU BILQIS BERIMAN DENGAN AJARAN NABI SULAIMAN AS.": [
+            { "surah": 27, "ayat": 44 }
+          ]
+        }
+      ],
+      "AISYAH": [
+        {
+          "AISYAH DIFITNAH SELINGKUH": [
+            { "surah": 24, "ayat": 11 },
+            { "surah": 24, "ayat": 15 }
+          ]
+        }
+      ],
+      "LUKMAN": [
+        { "LUKMAN DIBERIKAN ALLAH HIKMAH": [{ "surah": 31, "ayat": 12 }] },
+        {
+          "NASEHAT LUKMAN KEPADA ANAKNYA": [
+            { "surah": 31, "ayat": 13 },
+            { "surah": 31, "ayat": 14 },
+            { "surah": 31, "ayat": 15 },
+            { "surah": 31, "ayat": 16 },
+            { "surah": 31, "ayat": 17 },
+            { "surah": 31, "ayat": 18 },
+            { "surah": 31, "ayat": 19 }
+          ]
+        }
+      ],
+      "KHIDIR": [
+        { "NABI MUSA AS. BERTEMU KHIDIR": [{ "surah": 18, "ayat": 65 }] },
+        {
+          "NABI MUSA AS. MINTA IZIN UNTUK BERGURU": [
+            { "surah": 18, "ayat": 66 }
+          ]
+        },
+        {
+          "KHIDIR MENOLAK": [
+            { "surah": 18, "ayat": 67 },
+            { "surah": 18, "ayat": 68 }
+          ]
+        },
+        {
+          "NABI MUSA AS. TETAP MEMOHON DAN BERJANJI AKAN PATUH": [
+            { "surah": 18, "ayat": 69 }
+          ]
+        },
+        {
+          "KHIDIR MEMBERI SYARAT SEBELUM MENJADI GURUNYA": [
+            { "surah": 18, "ayat": 70 }
+          ]
+        },
+        {
+          "KHIDIR MENGUJI NABI MUSA AS. DENGAN UJIAN 1": [
+            { "surah": 18, "ayat": 71 },
+            { "surah": 18, "ayat": 72 },
+            { "surah": 18, "ayat": 73 }
+          ]
+        },
+        {
+          "KHIDIR MENGUJI NABI MUSA AS. DENGAN UJIAN 2": [
+            { "surah": 18, "ayat": 74 },
+            { "surah": 18, "ayat": 75 },
+            { "surah": 18, "ayat": 76 }
+          ]
+        },
+        {
+          "KHIDIR MENGUJI NABI MUSA AS. DENGAN UJIAN 3": [
+            { "surah": 18, "ayat": 77 },
+            { "surah": 18, "ayat": 78 }
+          ]
+        },
+        {
+          "KHIDIR MENJELASKAN JAWABAN UJIANNYA": [
+            { "surah": 18, "ayat": 79 },
+            { "surah": 18, "ayat": 80 },
+            { "surah": 18, "ayat": 81 },
+            { "surah": 18, "ayat": 82 }
+          ]
+        }
+      ],
+      "ZULQARNAIN": [
+        {
+          "SEORANG PEMIMPIN YANG ADIL DAN BERKUASA DI KAWASAN YANG LUAS": [
+            { "surah": 18, "ayat": 83 },
+            { "surah": 18, "ayat": 84 },
+            { "surah": 18, "ayat": 85 }
+          ]
+        },
+        {
+          "GAMBARAN KEADILAN MEMIMPIN": [
+            { "surah": 18, "ayat": 86 },
+            { "surah": 18, "ayat": 87 },
+            { "surah": 18, "ayat": 88 }
+          ]
+        },
+        {
+          "MEMBANGUN DAM": [
+            { "surah": 18, "ayat": 92 },
+            { "surah": 18, "ayat": 93 },
+            { "surah": 18, "ayat": 94 },
+            { "surah": 18, "ayat": 95 },
+            { "surah": 18, "ayat": 96 },
+            { "surah": 18, "ayat": 97 }
+          ]
+        },
+        {
+          "KEKUATAN ITU ADALAH KEKUATAN ALLAH, BUKAN KEKUATAN AKU (ZULQARNAIN)": [
+            { "surah": 18, "ayat": 98 }
+          ]
+        }
+      ],
+      "ZAYD IBN HARITSAH": [
+        {
+          "RASULULLAH SAW MENGANGKATNYA SEBAGAI ANAK": [
+            { "surah": 33, "ayat": 4 },
+            { "surah": 33, "ayat": 5 },
+            { "surah": 33, "ayat": 6 },
+            { "surah": 33, "ayat": 40 }
+          ]
+        },
+        {
+          "LARANGAN MENGANGKAT ANAK": [
+            { "surah": 33, "ayat": 36 },
+            { "surah": 33, "ayat": 37 }
+          ]
+        },
+        {
+          "RASULULLAH SAW MENIKAHI MANTAN ISTRI ANAK ANGKATNYA DULU": [
+            { "surah": 33, "ayat": 37 }
+          ]
+        },
+        {
+          "INTIMIDASI KE ATAS RUMAH TANGGA NABI MUHAMMAD SAW.": [
+            { "surah": 33, "ayat": 38 },
+            { "surah": 33, "ayat": 39 }
+          ]
+        }
+      ],
+      "HABIL/KABIL (DUA ANAK NABI ADAM)": [
+        {
+          "KISAH HABIL DAN KABIL": [
+            { "surah": 5, "ayat": 27 },
+            { "surah": 5, "ayat": 28 },
+            { "surah": 5, "ayat": 29 },
+            { "surah": 5, "ayat": 30 },
+            { "surah": 5, "ayat": 31 }
+          ]
+        }
+      ],
+      "QARUN": [
+        {
+          "KISAH QARUN": [
+            { "surah": 28, "ayat": 76 },
+            { "surah": 28, "ayat": 77 },
+            { "surah": 28, "ayat": 78 }
+          ]
+        },
+        { "PENGARUH QARUN PADA PECINTA DUNIA": [{ "surah": 28, "ayat": 79 }] },
+        { "APA KATA PARA ULAMA'?": [{ "surah": 28, "ayat": 80 }] },
+        {
+          "IA DAN RUMAHNYA BINASA DI DALAM BUMI": [{ "surah": 28, "ayat": 81 }]
+        },
+        {
+          "PENYESALAN MEREKA YANG MENGHARAP KEDUDUKAN QARUN": [
+            { "surah": 28, "ayat": 82 }
+          ]
+        },
+        { "PELAJARAN BAGI SETIAP QARUN": [{ "surah": 28, "ayat": 83 }] }
+      ],
+      "THALUT": [
+        {
+          "TERPILIHNYA SEBAGAI RAJA": [
+            { "surah": 2, "ayat": 246 },
+            { "surah": 2, "ayat": 247 }
+          ]
+        },
+        { "PROTES KAUMNYA": [{ "surah": 2, "ayat": 247 }] },
+        { "TANDA KEKUASAANNYA": [{ "surah": 2, "ayat": 248 }] },
+        {
+          "PERINGATAN BAGI TENTARA SUPAYA TIDAK MINUM DARI AIR SUNGAI": [
+            { "surah": 2, "ayat": 249 }
+          ]
+        },
+        {
+          "KEMENANGAN DENGAN SEIZIN ALLAH BAGI KELOMPOK YANG NOMINALNYA SEDIKIT": [
+            { "surah": 2, "ayat": 249 },
+            { "surah": 2, "ayat": 250 },
+            { "surah": 2, "ayat": 251 }
+          ]
+        }
+      ],
+      "FIR'AUN DAN KAUMNYA": [
+        {
+          "MEREKA MENDUSTAKAN NABI MUSA AS.": [
+            { "surah": 7, "ayat": 103 },
+            { "surah": 10, "ayat": 75 },
+            { "surah": 11, "ayat": 96 },
+            { "surah": 11, "ayat": 97 },
+            { "surah": 20, "ayat": 63 },
+            { "surah": 20, "ayat": 64 },
+            { "surah": 23, "ayat": 45 },
+            { "surah": 23, "ayat": 46 },
+            { "surah": 23, "ayat": 47 },
+            { "surah": 23, "ayat": 48 },
+            { "surah": 27, "ayat": 12 },
+            { "surah": 27, "ayat": 13 },
+            { "surah": 27, "ayat": 14 },
+            { "surah": 28, "ayat": 36 },
+            { "surah": 29, "ayat": 39 },
+            { "surah": 40, "ayat": 23 },
+            { "surah": 40, "ayat": 24 },
+            { "surah": 40, "ayat": 25 },
+            { "surah": 43, "ayat": 46 },
+            { "surah": 43, "ayat": 47 },
+            { "surah": 44, "ayat": 17 },
+            { "surah": 44, "ayat": 18 },
+            { "surah": 44, "ayat": 19 },
+            { "surah": 51, "ayat": 38 },
+            { "surah": 51, "ayat": 39 },
+            { "surah": 54, "ayat": 41 },
+            { "surah": 54, "ayat": 42 },
+            { "surah": 73, "ayat": 15 },
+            { "surah": 73, "ayat": 16 },
+            { "surah": 79, "ayat": 17 },
+            { "surah": 79, "ayat": 18 },
+            { "surah": 79, "ayat": 19 },
+            { "surah": 79, "ayat": 20 },
+            { "surah": 79, "ayat": 21 },
+            { "surah": 85, "ayat": 17 },
+            { "surah": 85, "ayat": 18 },
+            { "surah": 85, "ayat": 19 },
+            { "surah": 85, "ayat": 20 }
+          ]
+        },
+        {
+          "MAKA DATANGLAH KEPADANYA DAN KATAKAN KAMI ADALAH UTUSAN TUHANMU": [
+            { "surah": 20, "ayat": 49 },
+            { "surah": 20, "ayat": 50 },
+            { "surah": 20, "ayat": 51 },
+            { "surah": 20, "ayat": 52 },
+            { "surah": 26, "ayat": 16 },
+            { "surah": 26, "ayat": 23 },
+            { "surah": 26, "ayat": 24 },
+            { "surah": 26, "ayat": 25 },
+            { "surah": 26, "ayat": 26 },
+            { "surah": 26, "ayat": 27 },
+            { "surah": 26, "ayat": 28 },
+            { "surah": 26, "ayat": 29 }
+          ]
+        },
+        {
+          "PERKATAAN KAUM FIR'AUN DAN FILOSOFI ORANG-ORANG SOMBONG": [
+            { "surah": 7, "ayat": 109 },
+            { "surah": 7, "ayat": 110 },
+            { "surah": 7, "ayat": 111 },
+            { "surah": 7, "ayat": 112 },
+            { "surah": 7, "ayat": 132 },
+            { "surah": 11, "ayat": 97 },
+            { "surah": 23, "ayat": 46 },
+            { "surah": 23, "ayat": 47 },
+            { "surah": 23, "ayat": 48 },
+            { "surah": 43, "ayat": 46 },
+            { "surah": 43, "ayat": 47 },
+            { "surah": 43, "ayat": 48 },
+            { "surah": 43, "ayat": 51 }
+          ]
+        },
+        {
+          "MEMBUNUH LAKI-LAKI DAN MEMBIARKAN YANG PEREMPUAN": [
+            { "surah": 7, "ayat": 127 }
+          ]
+        },
+        {
+          "NABI MUSA AS. MEMBERI TANDA-TANDA KENABIAN DAN FIR'AUN MENDUSTAKANNYA": [
+            { "surah": 7, "ayat": 103 },
+            { "surah": 7, "ayat": 104 },
+            { "surah": 7, "ayat": 105 },
+            { "surah": 7, "ayat": 106 },
+            { "surah": 7, "ayat": 107 },
+            { "surah": 7, "ayat": 109 },
+            { "surah": 7, "ayat": 110 },
+            { "surah": 7, "ayat": 111 },
+            { "surah": 7, "ayat": 112 },
+            { "surah": 17, "ayat": 101 },
+            { "surah": 20, "ayat": 56 },
+            { "surah": 20, "ayat": 57 },
+            { "surah": 20, "ayat": 58 },
+            { "surah": 20, "ayat": 59 },
+            { "surah": 20, "ayat": 60 },
+            { "surah": 26, "ayat": 29 },
+            { "surah": 26, "ayat": 30 },
+            { "surah": 26, "ayat": 31 },
+            { "surah": 26, "ayat": 32 },
+            { "surah": 26, "ayat": 33 },
+            { "surah": 26, "ayat": 34 },
+            { "surah": 26, "ayat": 35 },
+            { "surah": 26, "ayat": 36 },
+            { "surah": 26, "ayat": 37 },
+            { "surah": 26, "ayat": 38 },
+            { "surah": 26, "ayat": 39 },
+            { "surah": 26, "ayat": 40 }
+          ]
+        },
+        {
+          "MENGHADAPI PARA PENYIHIR FIR'AUN DAN SUJUDNYA MEREKA KARENA BERIMAN": [
+            { "surah": 7, "ayat": 113 },
+            { "surah": 7, "ayat": 114 },
+            { "surah": 7, "ayat": 115 },
+            { "surah": 7, "ayat": 116 },
+            { "surah": 7, "ayat": 117 },
+            { "surah": 7, "ayat": 118 },
+            { "surah": 7, "ayat": 119 },
+            { "surah": 7, "ayat": 120 },
+            { "surah": 7, "ayat": 121 },
+            { "surah": 7, "ayat": 122 },
+            { "surah": 10, "ayat": 80 },
+            { "surah": 10, "ayat": 81 },
+            { "surah": 10, "ayat": 82 },
+            { "surah": 10, "ayat": 83 },
+            { "surah": 20, "ayat": 65 },
+            { "surah": 20, "ayat": 66 },
+            { "surah": 20, "ayat": 67 },
+            { "surah": 20, "ayat": 68 },
+            { "surah": 20, "ayat": 69 },
+            { "surah": 20, "ayat": 70 },
+            { "surah": 26, "ayat": 43 },
+            { "surah": 26, "ayat": 44 },
+            { "surah": 26, "ayat": 45 },
+            { "surah": 26, "ayat": 46 },
+            { "surah": 26, "ayat": 47 },
+            { "surah": 26, "ayat": 48 }
+          ]
+        },
+        {
+          "KEMARAHAN FIR'AUN TERHADAP PENYIHIR-PENYIHIR YANG BERIMAN": [
+            { "surah": 7, "ayat": 123 },
+            { "surah": 7, "ayat": 124 },
+            { "surah": 7, "ayat": 125 },
+            { "surah": 7, "ayat": 126 },
+            { "surah": 7, "ayat": 127 },
+            { "surah": 20, "ayat": 70 },
+            { "surah": 20, "ayat": 71 },
+            { "surah": 20, "ayat": 72 },
+            { "surah": 20, "ayat": 73 },
+            { "surah": 26, "ayat": 49 },
+            { "surah": 26, "ayat": 50 },
+            { "surah": 26, "ayat": 51 }
+          ]
+        },
+        {
+          "FIR'AUN DAN KAUMNYA DITIMPA AZAB SUPAYA MEREKA KEMBALI KE JALAN YANG BENAR": [
+            { "surah": 7, "ayat": 130 },
+            { "surah": 7, "ayat": 131 },
+            { "surah": 7, "ayat": 132 },
+            { "surah": 7, "ayat": 133 },
+            { "surah": 7, "ayat": 134 },
+            { "surah": 7, "ayat": 135 },
+            { "surah": 7, "ayat": 136 },
+            { "surah": 8, "ayat": 54 },
+            { "surah": 28, "ayat": 38 },
+            { "surah": 28, "ayat": 39 },
+            { "surah": 28, "ayat": 40 },
+            { "surah": 43, "ayat": 47 },
+            { "surah": 43, "ayat": 48 },
+            { "surah": 54, "ayat": 41 },
+            { "surah": 54, "ayat": 42 },
+            { "surah": 69, "ayat": 9 },
+            { "surah": 69, "ayat": 10 }
+          ]
+        },
+        {
+          "MEREKA MEMIKIRKAN TIPU DAYA DAN ALLAH MENGGAGALKAN TIPU DAYA ITU : NABI MUSA AS. DI DALAM RUMAH FIR'AUN": [
+            { "surah": 26, "ayat": 18 },
+            { "surah": 28, "ayat": 5 },
+            { "surah": 28, "ayat": 6 },
+            { "surah": 28, "ayat": 7 },
+            { "surah": 28, "ayat": 8 }
+          ]
+        },
+        {
+          "PERKARA YANG DITAKDIRKAN BAGI ISTERI FIR'AUN": [
+            { "surah": 28, "ayat": 9 },
+            { "surah": 66, "ayat": 11 }
+          ]
+        },
+        {
+          "TENGGELAMNYA FIR'AUN DAN TENTARANYA": [
+            { "surah": 2, "ayat": 50 },
+            { "surah": 7, "ayat": 136 },
+            { "surah": 7, "ayat": 137 },
+            { "surah": 10, "ayat": 90 },
+            { "surah": 10, "ayat": 91 },
+            { "surah": 10, "ayat": 92 },
+            { "surah": 17, "ayat": 101 },
+            { "surah": 20, "ayat": 78 },
+            { "surah": 26, "ayat": 60 },
+            { "surah": 26, "ayat": 61 },
+            { "surah": 26, "ayat": 62 },
+            { "surah": 26, "ayat": 63 },
+            { "surah": 26, "ayat": 64 },
+            { "surah": 26, "ayat": 65 },
+            { "surah": 26, "ayat": 66 },
+            { "surah": 28, "ayat": 40 },
+            { "surah": 43, "ayat": 55 },
+            { "surah": 44, "ayat": 23 },
+            { "surah": 44, "ayat": 24 },
+            { "surah": 51, "ayat": 40 }
+          ]
+        },
+        {
+          "PELAJARAN DAN 'IBRAH : SETIAP FIR'AUN PASTI AKAN HANCUR": [
+            { "surah": 3, "ayat": 11 },
+            { "surah": 8, "ayat": 54 },
+            { "surah": 10, "ayat": 88 },
+            { "surah": 10, "ayat": 89 },
+            { "surah": 10, "ayat": 90 },
+            { "surah": 10, "ayat": 91 },
+            { "surah": 10, "ayat": 92 },
+            { "surah": 28, "ayat": 39 },
+            { "surah": 28, "ayat": 40 },
+            { "surah": 29, "ayat": 39 },
+            { "surah": 29, "ayat": 40 },
+            { "surah": 54, "ayat": 41 },
+            { "surah": 54, "ayat": 42 },
+            { "surah": 69, "ayat": 9 },
+            { "surah": 69, "ayat": 10 },
+            { "surah": 73, "ayat": 15 },
+            { "surah": 73, "ayat": 16 },
+            { "surah": 79, "ayat": 23 },
+            { "surah": 79, "ayat": 24 },
+            { "surah": 79, "ayat": 25 },
+            { "surah": 79, "ayat": 26 },
+            { "surah": 89, "ayat": 6 },
+            { "surah": 89, "ayat": 7 },
+            { "surah": 89, "ayat": 8 },
+            { "surah": 89, "ayat": 9 },
+            { "surah": 89, "ayat": 10 },
+            { "surah": 89, "ayat": 11 },
+            { "surah": 89, "ayat": 12 },
+            { "surah": 89, "ayat": 13 },
+            { "surah": 89, "ayat": 14 }
+          ]
+        }
+      ],
+      "AL-SAMIRI": [
+        {
+          "BANI ISRA'IL TERKENA FITNAH KARENNYA": [
+            { "surah": 20, "ayat": 83 },
+            { "surah": 20, "ayat": 84 },
+            { "surah": 20, "ayat": 85 },
+            { "surah": 20, "ayat": 86 }
+          ]
+        },
+        {
+          "IA MEMBUAT PATUNG ANAK SAPI DAN MENYATAKANNYA SEBAGAI TUHAN BAGI MEREKA": [
+            { "surah": 20, "ayat": 87 },
+            { "surah": 20, "ayat": 88 },
+            { "surah": 20, "ayat": 89 }
+          ]
+        },
+        {
+          "NABI HARUN AS. MEMPERINGATKAN KAUMNYA": [
+            { "surah": 20, "ayat": 90 },
+            { "surah": 20, "ayat": 91 }
+          ]
+        },
+        {
+          "NABI MUSA AS. MENGINTEROGASINYA": [
+            { "surah": 20, "ayat": 95 },
+            { "surah": 20, "ayat": 96 }
+          ]
+        },
+        {
+          "NABI MUSA AS. MENDOAKAN KEHANCURANNYA DAN MENGHANCURKAN PATUNGNYA": [
+            { "surah": 20, "ayat": 97 },
+            { "surah": 20, "ayat": 98 }
+          ]
+        }
+      ],
+      "JALUT": [
+        {
+          "BANI ISRA'IL TAKUT BERHADAPAN DENGAN PASUKANNYA": [
+            { "surah": 2, "ayat": 249 }
+          ]
+        },
+        {
+          "SIKAP ORANG MU'MIN MENGHADAPI PASUKAN BESAR": [
+            { "surah": 2, "ayat": 249 },
+            { "surah": 2, "ayat": 250 }
+          ]
+        },
+        { "TEWAS DI TANGAN NABI DAUD AS.": [{ "surah": 2, "ayat": 251 }] }
+      ],
+      "ABU LAHAB": [
+        {
+          "PRILAKU ABU LAHAB": [
+            { "surah": 111, "ayat": 1 },
+            { "surah": 111, "ayat": 2 }
+          ]
+        },
+        {
+          "BALASAN YANG AKAN DITERIMA": [
+            { "surah": 113, "ayat": 3 },
+            { "surah": 114, "ayat": 4 }
+          ]
+        },
+        {
+          "ISTRINYA YANG AKAN IKUT DISIKSA": [
+            { "surah": 111, "ayat": 4 },
+            { "surah": 111, "ayat": 5 }
+          ]
+        }
+      ],
+      "TUBBA'": [
+        {
+          "MEMBERI PERUMPAMAAN DENGAN KAUMNYA": [
+            { "surah": 44, "ayat": 37 },
+            { "surah": 50, "ayat": 12 },
+            { "surah": 50, "ayat": 13 },
+            { "surah": 50, "ayat": 14 }
+          ]
+        }
+      ],
+      "HAMAN": [
+        {
+          "PENOLONG DAN MENTRI FIR'AUN": [
+            { "surah": 28, "ayat": 38 },
+            { "surah": 40, "ayat": 36 },
+            { "surah": 40, "ayat": 37 }
+          ]
+        },
+        {
+          "PENOLONG FIR'AUN DALAM MENDUSTAKAN NABI MUSA AS.": [
+            { "surah": 29, "ayat": 39 },
+            { "surah": 40, "ayat": 23 },
+            { "surah": 40, "ayat": 24 }
+          ]
+        },
+        {
+          "KEBURUKAN AKIBATNYA BERSAMA FIR'AUN": [
+            { "surah": 28, "ayat": 6 },
+            { "surah": 28, "ayat": 8 },
+            { "surah": 28, "ayat": 39 },
+            { "surah": 28, "ayat": 40 },
+            { "surah": 29, "ayat": 39 },
+            { "surah": 29, "ayat": 40 }
+          ]
+        }
+      ],
+      "MU'MIN AL-FIR'AUN": [
+        {
+          "PERINGATANNYA KEPADA NABI MUSA AS.": [
+            { "surah": 28, "ayat": 20 },
+            { "surah": 28, "ayat": 21 }
+          ]
+        },
+        {
+          "PEMBELAANNYA KEPADA NABI MUSA AS.": [
+            { "surah": 40, "ayat": 26 },
+            { "surah": 40, "ayat": 28 },
+            { "surah": 40, "ayat": 29 },
+            { "surah": 40, "ayat": 30 },
+            { "surah": 40, "ayat": 31 },
+            { "surah": 40, "ayat": 32 },
+            { "surah": 40, "ayat": 33 },
+            { "surah": 40, "ayat": 34 }
+          ]
+        }
+      ],
+      "SYAHID KATA-KATA KEBENARAN": [
+        { "surah": 36, "ayat": 20 },
+        { "surah": 36, "ayat": 21 },
+        { "surah": 36, "ayat": 22 },
+        { "surah": 36, "ayat": 23 },
+        { "surah": 36, "ayat": 24 },
+        { "surah": 36, "ayat": 25 },
+        { "surah": 36, "ayat": 26 },
+        { "surah": 36, "ayat": 27 }
+      ],
+      "PEMBANTU NABI MUSA AS.": [
+        { "PERKATAAN NABI MUSA AS. KEPADANYA": [{ "surah": 18, "ayat": 60 }] },
+        {
+          "KELUPAANNYA TERHADAP IKAN YANG IA BAWA": [
+            { "surah": 18, "ayat": 61 },
+            { "surah": 18, "ayat": 62 },
+            { "surah": 18, "ayat": 63 },
+            { "surah": 18, "ayat": 64 }
+          ]
+        }
+      ],
+      "IBN UMM MAKTUM": [
+        {
+          "TERGANGGUNYA RASULULLAH SAW": [
+            { "surah": 80, "ayat": 1 },
+            { "surah": 80, "ayat": 2 }
+          ]
+        },
+        {
+          "TEGURAN KEPADA NABI MUHAMMAD SAW KARENANYA": [
+            { "surah": 80, "ayat": 3 },
+            { "surah": 80, "ayat": 4 },
+            { "surah": 80, "ayat": 5 },
+            { "surah": 80, "ayat": 6 },
+            { "surah": 80, "ayat": 7 },
+            { "surah": 80, "ayat": 8 },
+            { "surah": 80, "ayat": 9 },
+            { "surah": 80, "ayat": 10 },
+            { "surah": 80, "ayat": 11 }
+          ]
+        }
+      ],
+      "ISTERI FIR'AUN": [
+        {
+          "MELINDUNGI NABI MUSA AS. DARI PEMBUNUHAN": [
+            { "surah": 28, "ayat": 8 },
+            { "surah": 28, "ayat": 9 }
+          ]
+        },
+        { "PERUMPAMAAN DENGANNYA": [{ "surah": 66, "ayat": 11 }] }
+      ],
+      "ISTERI NABI NUH AS.": [
+        { "PERUMPAMAAN DENGANNYA": [{ "surah": 66, "ayat": 10 }] }
+      ],
+      "ISTERI NABI LUTH AS.": [
+        {
+          "KETETAPAN ALLAH BAHWA IA AKAN DIAZAB KARENA KEBURUKAN SIKAPNYA": [
+            { "surah": 7, "ayat": 82 },
+            { "surah": 7, "ayat": 83 },
+            { "surah": 11, "ayat": 81 },
+            { "surah": 15, "ayat": 59 },
+            { "surah": 15, "ayat": 60 },
+            { "surah": 27, "ayat": 56 },
+            { "surah": 27, "ayat": 57 },
+            { "surah": 29, "ayat": 32 },
+            { "surah": 29, "ayat": 33 }
+          ]
+        },
+        { "PERUMPAMAAN DENGANNYA": [{ "surah": 66, "ayat": 10 }] }
+      ],
+      "ISTERI NABI IBRAHIM AS.": [
+        {
+          "MALAIKAT MEMBERI KABAR GEMBIRA YAITU DIKARUNIAKAN ISHAQ": [
+            { "surah": 11, "ayat": 71 },
+            { "surah": 11, "ayat": 72 },
+            { "surah": 11, "ayat": 73 },
+            { "surah": 51, "ayat": 28 },
+            { "surah": 51, "ayat": 29 },
+            { "surah": 51, "ayat": 30 }
+          ]
+        }
+      ],
+      "ISTERI NABI 'IMRAN AS.": [
+        {
+          "DOANYA KEPADA ALLAH AGAR MENDAPAT ANAK": [
+            { "surah": 3, "ayat": 35 },
+            { "surah": 3, "ayat": 36 },
+            { "surah": 3, "ayat": 37 }
+          ]
+        }
+      ],
+      "ISTERI ABU LAHAB": [
+        {
+          "HUKUMANNYA DI DALAM NERAKA": [
+            { "surah": 111, "ayat": 4 },
+            { "surah": 111, "ayat": 5 }
+          ]
+        }
+      ]
     },
     "KAUM": {
-      "QURAISY": [],
-      "BANI ISRA'IL": [],
-      "TSAMUD": [],
-      "AD": [],
-      "ROMAWI DAN PARSI": [],
-      "YA'UJ DAN MA'UJ": [],
-      "KAUM MUHAJIRIN DAN ANSHAR": [],
-      "AL-HAWARIYYUN": [],
-      "ASHHAB AL-UKHDUD": [],
-      "ASHHAB AL-KAHF": [],
-      "ASHHAB AL-JANNAH": [],
+      "QURAISY": [
+        {
+          "KEBIASAAN ORANG QURAISY": [
+            { "surah": 106, "ayat": 1 },
+            { "surah": 106, "ayat": 2 }
+          ]
+        },
+        {
+          "ORANG QURAISY DIAJAK BERIMAN": [
+            { "surah": 106, "ayat": 3 },
+            { "surah": 106, "ayat": 4 }
+          ]
+        }
+      ],
+      "BANI ISRA'IL": [
+        {
+          "FIR'AUN MENGAKU BERIMAN DENGAN TUHAN BANI ISRA'IL KETIKA HENDAK TENGGELAM": [
+            { "surah": 10, "ayat": 90 }
+          ]
+        },
+        {
+          "KATA-KATA BANI ISRA'IL DALAM AL-QUR'AN": [
+            { "surah": 2, "ayat": 40 },
+            { "surah": 2, "ayat": 47 },
+            { "surah": 2, "ayat": 83 },
+            { "surah": 2, "ayat": 122 },
+            { "surah": 2, "ayat": 211 },
+            { "surah": 2, "ayat": 246 },
+            { "surah": 3, "ayat": 39 },
+            { "surah": 5, "ayat": 12 },
+            { "surah": 5, "ayat": 32 },
+            { "surah": 5, "ayat": 70 },
+            { "surah": 5, "ayat": 72 },
+            { "surah": 5, "ayat": 78 },
+            { "surah": 5, "ayat": 110 },
+            { "surah": 7, "ayat": 105 },
+            { "surah": 7, "ayat": 134 },
+            { "surah": 7, "ayat": 137 },
+            { "surah": 10, "ayat": 93 },
+            { "surah": 17, "ayat": 4 },
+            { "surah": 17, "ayat": 101 },
+            { "surah": 20, "ayat": 47 },
+            { "surah": 20, "ayat": 80 },
+            { "surah": 20, "ayat": 94 },
+            { "surah": 26, "ayat": 17 },
+            { "surah": 26, "ayat": 22 },
+            { "surah": 26, "ayat": 69 },
+            { "surah": 26, "ayat": 197 },
+            { "surah": 27, "ayat": 76 },
+            { "surah": 40, "ayat": 53 },
+            { "surah": 44, "ayat": 30 },
+            { "surah": 45, "ayat": 16 },
+            { "surah": 46, "ayat": 10 },
+            { "surah": 61, "ayat": 6 },
+            { "surah": 61, "ayat": 15 }
+          ]
+        },
+        {
+          "BANI ISRA'IL SEBAGAI PERUSAK DI BUMI": [
+            { "PERUSAKAN BANI ISRA'IL TAHAP 1": [{ "surah": 17, "ayat": 5 }] },
+            {
+              "PERUSAKAN BANI ISRA'IL TAHAP 2": [
+                { "surah": 17, "ayat": 6 },
+                { "surah": 17, "ayat": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "LARANGAN ALLAH KEPADA BANI ISRA'IL": [
+            { "surah": 2, "ayat": 41 },
+            { "surah": 2, "ayat": 42 }
+          ]
+        },
+        {
+          "PERINTAH ALLAH KEPADA BANI ISRA'IL": [
+            { "surah": 2, "ayat": 40 },
+            { "surah": 2, "ayat": 41 },
+            { "surah": 2, "ayat": 47 },
+            { "surah": 2, "ayat": 48 }
+          ]
+        },
+        {
+          "PERINTAH ALLAH KEPADA BANI ISRA'IL UNTUK MASUK PALESTINA": [
+            { "surah": 2, "ayat": 58 }
+          ]
+        },
+        {
+          "BANI ISRA'IL MELANGGAR PERJANJIAN": [
+            { "surah": 2, "ayat": 64 },
+            { "surah": 2, "ayat": 85 },
+            { "surah": 2, "ayat": 93 }
+          ]
+        },
+        {
+          "PERJANJIAN BANI ISRA'IL": [
+            { "surah": 2, "ayat": 84 },
+            { "surah": 2, "ayat": 93 }
+          ]
+        },
+        { "MAKARNYA BANI ISRA'IL": [{ "surah": 3, "ayat": 54 }] }
+      ],
+      "TSAMUD": [
+        {
+          "NABI SHOLEH AS. DIUTUS KE MEREKA": [
+            { "surah": 7, "ayat": 73 },
+            { "surah": 11, "ayat": 61 },
+            { "surah": 27, "ayat": 45 }
+          ]
+        },
+        {
+          "DIPERLIHATKAN ONTA SEBAGAI MU'JIZAT": [
+            { "surah": 7, "ayat": 73 },
+            { "surah": 17, "ayat": 59 }
+          ]
+        },
+        {
+          "MEREKA MEMBUNUH ONTA DAN DIAZAB KARENANYA": [
+            { "surah": 91, "ayat": 11 },
+            { "surah": 91, "ayat": 12 },
+            { "surah": 91, "ayat": 13 },
+            { "surah": 91, "ayat": 14 }
+          ]
+        },
+        {
+          "MEREKA MENDUSTAI RASULULLAH AS.": [
+            { "surah": 11, "ayat": 68 },
+            { "surah": 17, "ayat": 59 },
+            { "surah": 26, "ayat": 141 },
+            { "surah": 27, "ayat": 45 },
+            { "surah": 41, "ayat": 17 },
+            { "surah": 54, "ayat": 23 },
+            { "surah": 69, "ayat": 4 },
+            { "surah": 91, "ayat": 11 }
+          ]
+        },
+        {
+          "MEREKA DIJAUHKAN DARI RAHMAT ALLAH": [
+            { "surah": 11, "ayat": 68 },
+            { "surah": 11, "ayat": 95 },
+            { "surah": 41, "ayat": 17 },
+            { "surah": 51, "ayat": 43 },
+            { "surah": 69, "ayat": 5 }
+          ]
+        },
+        {
+          "MEREKA DIJADIKAN PERUMPAMAAN": [
+            { "surah": 26, "ayat": 158 },
+            { "surah": 27, "ayat": 52 }
+          ]
+        }
+      ],
+      "AD": [
+        { "surah": 7, "ayat": 65 },
+        { "surah": 7, "ayat": 74 },
+        { "surah": 11, "ayat": 50 },
+        { "surah": 11, "ayat": 59 },
+        { "surah": 26, "ayat": 123 },
+        { "surah": 41, "ayat": 13 }
+      ],
+      "ROMAWI DAN PARSI": [
+        { "surah": 30, "ayat": 2 },
+        { "surah": 30, "ayat": 3 },
+        { "surah": 30, "ayat": 4 }
+      ],
+      "YA'UJ DAN MA'UJ": [
+        {
+          "KERUSAKAN MEREKA DI MUKA BUMI": [
+            { "surah": 18, "ayat": 93 },
+            { "surah": 18, "ayat": 94 }
+          ]
+        },
+        {
+          "ZULQARNAIN MEMBANGUN BENDUNGAN": [
+            { "surah": 18, "ayat": 95 },
+            { "surah": 18, "ayat": 96 },
+            { "surah": 18, "ayat": 97 },
+            { "surah": 18, "ayat": 98 }
+          ]
+        },
+        {
+          "KEADAAN MEREKA PADA HARI KIAMAT": [
+            { "surah": 18, "ayat": 99 },
+            { "surah": 21, "ayat": 96 },
+            { "surah": 21, "ayat": 97 }
+          ]
+        }
+      ],
+      "KAUM MUHAJIRIN DAN ANSHAR": [
+        { "MEREKA SALING TOLONG MENOLONG": [{ "surah": 8, "ayat": 72 }] },
+        {
+          "MEREKA ADALAH ORANG-ORANG MU'MIN YANG SEBENARNYA": [
+            { "surah": 8, "ayat": 74 }
+          ]
+        },
+        {
+          "YANG TERDAHULU DAN YANG MENGIKUTI MEREKA DIRIHDIAHI ALLAH": [
+            { "surah": 9, "ayat": 100 }
+          ]
+        },
+        {
+          "PEMBERIAN MEREKA PADA SAAT KESULITAN": [{ "surah": 9, "ayat": 117 }]
+        },
+        { "CIRI-CIRI MEREKA DALAM AL-QUR'AN": [{ "surah": 59, "ayat": 9 }] },
+        {
+          "YANG BERIMAN SELALU MERUPAKAN ANSHARULLAH": [
+            { "surah": 61, "ayat": 14 }
+          ]
+        }
+      ],
+      "AL-HAWARIYYUN": [
+        {
+          "MEMBERI PERTOLONGAN KEPADA NABI ISA AS.": [
+            { "surah": 3, "ayat": 52 }
+          ]
+        },
+        {
+          "MEREKA MENGUMUMKAN KEIMANAN MEREKA": [
+            { "surah": 3, "ayat": 52 },
+            { "surah": 3, "ayat": 53 },
+            { "surah": 5, "ayat": 111 }
+          ]
+        },
+        {
+          "PERMINTAAN MEREKA KEPADA NABI ISA AS. SUPAYA DITURUNKANNYA HIDANGAN DARI LANGIT": [
+            { "surah": 5, "ayat": 112 },
+            { "surah": 5, "ayat": 113 },
+            { "surah": 5, "ayat": 114 },
+            { "surah": 5, "ayat": 115 }
+          ]
+        },
+        { "DIJADIKAN PERUMPAMAAN": [{ "surah": 61, "ayat": 14 }] }
+      ],
+      "ASHHAB AL-UKHDUD": [
+        {
+          "ORANG-ORANG JAHAT": [
+            { "surah": 85, "ayat": 4 },
+            { "surah": 85, "ayat": 5 },
+            { "surah": 85, "ayat": 6 },
+            { "surah": 85, "ayat": 7 }
+          ]
+        },
+        {
+          "PENYIKSAAN MEREKA TERHADAP ORANG-ORANG MU'MIN": [
+            { "surah": 85, "ayat": 8 },
+            { "surah": 85, "ayat": 9 }
+          ]
+        },
+        { "AKIBAT BURUK KEJAHATAN MEREKA": [{ "surah": 85, "ayat": 10 }] },
+        { "PAHALA ORANG-ORANG BERIMAN": [{ "surah": 85, "ayat": 11 }] },
+        {
+          "PERINGATAN DAN ANCAMAN": [
+            { "surah": 85, "ayat": 12 },
+            { "surah": 85, "ayat": 13 },
+            { "surah": 85, "ayat": 14 },
+            { "surah": 85, "ayat": 15 },
+            { "surah": 85, "ayat": 16 },
+            { "surah": 85, "ayat": 17 },
+            { "surah": 85, "ayat": 18 },
+            { "surah": 85, "ayat": 19 },
+            { "surah": 85, "ayat": 20 }
+          ]
+        }
+      ],
+      "ASHHAB AL-KAHF": [
+        {
+          "MEREKA YANG LARI KARENA ALLAH": [
+            { "surah": 18, "ayat": 9 },
+            { "surah": 18, "ayat": 10 }
+          ]
+        },
+        { "MEREKA PEMUDA-PEMUDA YANG BERIMAN": [{ "surah": 18, "ayat": 13 }] },
+        {
+          "MENGAPA MEREKA MENJAUHI KAUMNYA?": [
+            { "surah": 18, "ayat": 14 },
+            { "surah": 18, "ayat": 15 }
+          ]
+        },
+        { "ALLAHLAH YANG MENJAGA MEREKA": [{ "surah": 18, "ayat": 16 }] },
+        { "POSISI GUA": [{ "surah": 18, "ayat": 17 }] },
+        { "CIRI-CIRI MEREKA DI DALAM GUA": [{ "surah": 18, "ayat": 18 }] },
+        {
+          "APA YANG MEREKA KATAKAN PADA SAAT DIBANGKITKAN DARI TIDUR?": [
+            { "surah": 18, "ayat": 19 }
+          ]
+        },
+        {
+          "KETAKUTAN MEREKA": [
+            { "surah": 18, "ayat": 19 },
+            { "surah": 18, "ayat": 20 }
+          ]
+        },
+        { "HIKMAH DARI KISAH MEREKA": [{ "surah": 18, "ayat": 21 }] },
+        { "BERAPA JUMLAH MEREKA?": [{ "surah": 18, "ayat": 22 }] },
+        {
+          "BERAPA TAHUN MEREKA BERADA DI DALAM GUA?": [
+            { "surah": 18, "ayat": 11 },
+            { "surah": 18, "ayat": 12 },
+            { "surah": 18, "ayat": 25 },
+            { "surah": 18, "ayat": 26 }
+          ]
+        }
+      ],
+      "ASHHAB AL-JANNAH": [
+        { "SUMPAH YANG SALAH": [] },
+        { "HUKUMAN BAGI MEREKA": [] },
+        { "KEJUTAN BAGI YANG BERNIAT BURUK": [] },
+        { "PENYESALAN DAN PERMINTAAN AMPUN": [] }
+      ],
       "ASHHAB AL-QARYAH": [],
       "KAUM YANG DIHANCURKAN": []
     },
