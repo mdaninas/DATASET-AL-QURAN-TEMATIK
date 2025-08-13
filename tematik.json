@@ -20257,43 +20257,617 @@
   },
   "ALAM GHAIB": {
     "KONSEP": {
-      "HARUS BERIMAN KEPADA HAL YANG GHAIB": [],
-      "ALLAH MAHA MENGETAHUI SEMUA YANG GHAIB": [],
-      "HAL YANG GHAIB DISEMBUNYIKAN SAMPAI KEPADA RASULULLAH SAW": [],
-      "BEBERAPA HAL YANG GHAIB ADA YANG DIPERLIHATKAN KEPADA BEBERAPA ORANG RASUL-NYA": []
+      "HARUS BERIMAN KEPADA HAL YANG GHAIB": [
+        { "surah": 2, "ayat": 3 },
+        { "surah": 5, "ayat": 94 },
+        { "surah": 35, "ayat": 18 },
+        { "surah": 36, "ayat": 11 },
+        { "surah": 50, "ayat": 33 },
+        { "surah": 67, "ayat": 12 }
+      ],
+      "ALLAH MAHA MENGETAHUI SEMUA YANG GHAIB": [
+        { "surah": 5, "ayat": 109 },
+        { "surah": 5, "ayat": 116 },
+        { "surah": 9, "ayat": 78 },
+        { "surah": 34, "ayat": 48 }
+      ],
+      "HAL YANG GHAIB DISEMBUNYIKAN SAMPAI KEPADA RASULULLAH SAW": [
+        { "surah": 3, "ayat": 179 },
+        { "surah": 5, "ayat": 116 },
+        { "surah": 6, "ayat": 50 },
+        { "surah": 7, "ayat": 188 },
+        { "surah": 11, "ayat": 31 },
+        { "surah": 12, "ayat": 81 },
+        { "surah": 18, "ayat": 72 },
+        { "surah": 19, "ayat": 78 },
+        { "surah": 34, "ayat": 14 },
+        { "surah": 52, "ayat": 41 },
+        { "surah": 53, "ayat": 35 }
+      ],
+      "BEBERAPA HAL YANG GHAIB ADA YANG DIPERLIHATKAN KEPADA BEBERAPA ORANG RASUL-NYA": [
+        { "surah": 3, "ayat": 44 },
+        { "surah": 12, "ayat": 102 },
+        { "surah": 72, "ayat": 26 },
+        { "surah": 72, "ayat": 27 }
+      ]
     },
     "MALAIKAT": {
-      "WAJIB BERIMAN KEPADA MALAIKAT": [],
-      "KARAKTER MALAIKAT BERTASBIH DAN TAAT KEPADA ALLAH": [],
-      "MALAIKAT SUJUD KEPADA ADAM ATAS PERINTAH ALLAH": [],
-      "TUGAS MALAIKAT": [],
-      "BENTUK FISIK MALAIKAT": [],
-      "JENIS KELAMIN": [],
-      "NAMA BEBERAPA MALAIKAT": [],
-      "KISAH-KISAH MALAIKAT": [],
-      "MALAIKAT TIDAK MUNGKIN MENJADI RASUL/UTUSAN LANGSUNG KEPADA MANUSIA": [],
-      "MALAIKAT TIDAK BOLEH DISEMBah/DITUHANKAN": [],
-      "POSISI MALAIKAT PADA HARI KIAMAT": [],
-      "KATA-KATA MALAIKAT DALAM AL-QUR'AN": [],
-      "QORIN DAN TUGASNYA": []
+      "WAJIB BERIMAN KEPADA MALAIKAT": [
+        { "surah": 2, "ayat": 177 },
+        { "surah": 2, "ayat": 285 },
+        { "surah": 4, "ayat": 136 }
+      ],
+      "KARAKTER MALAIKAT BERTASBIH DAN TAAT KEPADA ALLAH": [
+        { "surah": 2, "ayat": 30 },
+        { "surah": 16, "ayat": 2 },
+        { "surah": 16, "ayat": 49 },
+        { "surah": 16, "ayat": 50 },
+        { "surah": 39, "ayat": 75 },
+        { "surah": 42, "ayat": 5 }
+      ],
+      "MALAIKAT SUJUD KEPADA ADAM ATAS PERINTAH ALLAH": [
+        { "surah": 2, "ayat": 34 },
+        { "surah": 7, "ayat": 11 },
+        { "surah": 15, "ayat": 30 },
+        { "surah": 20, "ayat": 116 },
+        { "surah": 38, "ayat": 73 }
+      ],
+      "TUGAS MALAIKAT": [
+        {
+          "MEMBAWA 'ARSY AL-RAHMAN": [
+            { "surah": 39, "ayat": 75 },
+            { "surah": 40, "ayat": 7 },
+            { "surah": 69, "ayat": 17 }
+          ]
+        },
+        {
+          "TURUN KE BUMI": [
+            { "surah": 15, "ayat": 8 },
+            { "surah": 16, "ayat": 2 },
+            { "surah": 25, "ayat": 25 },
+            { "surah": 97, "ayat": 4 }
+          ]
+        },
+        { "MENAIK KE LANGIT": [{ "surah": 70, "ayat": 4 }] },
+        {
+          "SEBAGAI UTUSAN": [
+            { "surah": 17, "ayat": 95 },
+            { "surah": 22, "ayat": 75 },
+            { "surah": 23, "ayat": 24 },
+            { "surah": 35, "ayat": 1 },
+            { "surah": 41, "ayat": 14 }
+          ]
+        },
+        {
+          "MEMBANTU NABI DALAM PERANG": [
+            { "surah": 3, "ayat": 124 },
+            { "surah": 3, "ayat": 125 },
+            { "surah": 8, "ayat": 9 },
+            { "surah": 8, "ayat": 12 }
+          ]
+        },
+        {
+          "MENGAMBIL NYAWA": [
+            { "surah": 4, "ayat": 97 },
+            { "surah": 8, "ayat": 50 },
+            { "surah": 32, "ayat": 11 },
+            { "surah": 47, "ayat": 27 }
+          ]
+        },
+        { "MENYIKSA PENDURHAKA": [{ "surah": 8, "ayat": 50 }] },
+        {
+          "MENJAGA NERAKA": [
+            { "surah": 66, "ayat": 6 },
+            { "surah": 74, "ayat": 31 }
+          ]
+        },
+        {
+          "MENJAGA SURGA": [
+            { "surah": 13, "ayat": 23 },
+            { "surah": 13, "ayat": 24 },
+            { "surah": 21, "ayat": 101 },
+            { "surah": 21, "ayat": 102 },
+            { "surah": 21, "ayat": 103 },
+            { "surah": 39, "ayat": 73 }
+          ]
+        },
+        { "MENCATAT AMALAN MANUSIA": [{ "surah": 50, "ayat": 18 }] },
+        {
+          "TURUN PADA LAILATUL QADR": [
+            { "surah": 97, "ayat": 1 },
+            { "surah": 97, "ayat": 2 },
+            { "surah": 97, "ayat": 3 },
+            { "surah": 97, "ayat": 4 },
+            { "surah": 97, "ayat": 5 }
+          ]
+        },
+        { "BERSALAWAT KEPADA RASULULLAH SAW": [{ "surah": 33, "ayat": 56 }] },
+        {
+          "MENDOAKAN ORANG MU'MIN": [
+            { "surah": 8, "ayat": 12 },
+            { "surah": 33, "ayat": 43 },
+            { "surah": 41, "ayat": 30 },
+            { "surah": 41, "ayat": 31 }
+          ]
+        }
+      ],
+      "BENTUK FISIK MALAIKAT": [{ "surah": 35, "ayat": 1 }],
+      "JENIS KELAMIN": [
+        { "surah": 37, "ayat": 150 },
+        { "surah": 37, "ayat": 151 },
+        { "surah": 37, "ayat": 152 },
+        { "surah": 43, "ayat": 19 },
+        { "surah": 53, "ayat": 27 }
+      ],
+      "NAMA BEBERAPA MALAIKAT": [
+        {
+          "JIBRIL": [
+            { "surah": 2, "ayat": 98 },
+            { "surah": 66, "ayat": 4 }
+          ]
+        },
+        { "MIKAIL": [{ "surah": 2, "ayat": 98 }] },
+        { "RAKIB": [{ "surah": 50, "ayat": 18 }] },
+        { "ATID": [{ "surah": 50, "ayat": 18 }] }
+      ],
+      "KISAH-KISAH MALAIKAT": [
+        {
+          "DENGAN NABI ADAM AS.": [
+            { "surah": 2, "ayat": 31 },
+            { "surah": 15, "ayat": 30 }
+          ]
+        },
+        { "DENGAN NABI ZAKARIYA AS.": [{ "surah": 3, "ayat": 39 }] },
+        {
+          "DENGAN MARYAM": [
+            { "surah": 3, "ayat": 42 },
+            { "surah": 3, "ayat": 45 }
+          ]
+        },
+        {
+          "DENGAN NABI IBRAHIM AS.": [
+            { "surah": 15, "ayat": 51 },
+            { "surah": 15, "ayat": 52 },
+            { "surah": 15, "ayat": 53 },
+            { "surah": 51, "ayat": 24 },
+            { "surah": 51, "ayat": 25 },
+            { "surah": 51, "ayat": 26 },
+            { "surah": 51, "ayat": 27 },
+            { "surah": 51, "ayat": 28 }
+          ]
+        },
+        {
+          "DENGAN NABI LUTH AS.": [
+            { "surah": 15, "ayat": 57 },
+            { "surah": 15, "ayat": 58 },
+            { "surah": 15, "ayat": 59 },
+            { "surah": 15, "ayat": 60 },
+            { "surah": 15, "ayat": 61 },
+            { "surah": 15, "ayat": 62 },
+            { "surah": 15, "ayat": 63 },
+            { "surah": 15, "ayat": 64 },
+            { "surah": 15, "ayat": 65 },
+            { "surah": 15, "ayat": 66 },
+            { "surah": 51, "ayat": 31 },
+            { "surah": 51, "ayat": 32 },
+            { "surah": 51, "ayat": 33 },
+            { "surah": 51, "ayat": 34 }
+          ]
+        }
+      ],
+      "MALAIKAT TIDAK MUNGKIN MENJADI RASUL/UTUSAN LANGSUNG KEPADA MANUSIA": [
+        { "surah": 6, "ayat": 8 },
+        { "surah": 6, "ayat": 9 },
+        { "surah": 11, "ayat": 12 },
+        { "surah": 15, "ayat": 6 },
+        { "surah": 15, "ayat": 7 },
+        { "surah": 15, "ayat": 8 },
+        { "surah": 17, "ayat": 94 },
+        { "surah": 17, "ayat": 95 },
+        { "surah": 23, "ayat": 24 },
+        { "surah": 25, "ayat": 7 },
+        { "surah": 25, "ayat": 20 },
+        { "surah": 25, "ayat": 21 },
+        { "surah": 25, "ayat": 22 },
+        { "surah": 43, "ayat": 51 },
+        { "surah": 43, "ayat": 52 },
+        { "surah": 43, "ayat": 53 },
+        { "surah": 43, "ayat": 60 }
+      ],
+      "MALAIKAT TIDAK BOLEH DISEMBah/DITUHANKAN": [
+        { "surah": 3, "ayat": 80 },
+        { "surah": 4, "ayat": 172 },
+        { "surah": 17, "ayat": 40 },
+        { "surah": 34, "ayat": 40 },
+        { "surah": 34, "ayat": 41 },
+        { "surah": 43, "ayat": 19 },
+        { "surah": 43, "ayat": 20 },
+        { "surah": 53, "ayat": 26 }
+      ],
+      "POSISI MALAIKAT PADA HARI KIAMAT": [
+        { "surah": 78, "ayat": 37 },
+        { "surah": 78, "ayat": 38 },
+        { "surah": 78, "ayat": 39 },
+        { "surah": 89, "ayat": 21 },
+        { "surah": 89, "ayat": 22 }
+      ],
+      "KATA-KATA MALAIKAT DALAM AL-QUR'AN": [
+        { "surah": 2, "ayat": 30 },
+        { "surah": 2, "ayat": 31 },
+        { "surah": 2, "ayat": 34 },
+        { "surah": 2, "ayat": 161 },
+        { "surah": 2, "ayat": 177 },
+        { "surah": 2, "ayat": 210 },
+        { "surah": 2, "ayat": 248 },
+        { "surah": 3, "ayat": 18 },
+        { "surah": 3, "ayat": 39 },
+        { "surah": 3, "ayat": 42 },
+        { "surah": 3, "ayat": 45 },
+        { "surah": 3, "ayat": 80 },
+        { "surah": 3, "ayat": 87 },
+        { "surah": 3, "ayat": 124 },
+        { "surah": 3, "ayat": 125 },
+        { "surah": 4, "ayat": 97 },
+        { "surah": 4, "ayat": 166 },
+        { "surah": 4, "ayat": 172 },
+        { "surah": 6, "ayat": 93 },
+        { "surah": 6, "ayat": 111 },
+        { "surah": 6, "ayat": 158 },
+        { "surah": 7, "ayat": 11 },
+        { "surah": 8, "ayat": 9 },
+        { "surah": 8, "ayat": 12 },
+        { "surah": 8, "ayat": 50 },
+        { "surah": 13, "ayat": 13 },
+        { "surah": 13, "ayat": 23 },
+        { "surah": 15, "ayat": 8 },
+        { "surah": 15, "ayat": 28 },
+        { "surah": 15, "ayat": 30 },
+        { "surah": 16, "ayat": 2 },
+        { "surah": 16, "ayat": 28 },
+        { "surah": 16, "ayat": 32 },
+        { "surah": 16, "ayat": 33 },
+        { "surah": 16, "ayat": 49 },
+        { "surah": 17, "ayat": 40 },
+        { "surah": 17, "ayat": 61 },
+        { "surah": 17, "ayat": 92 },
+        { "surah": 17, "ayat": 95 },
+        { "surah": 18, "ayat": 50 },
+        { "surah": 21, "ayat": 103 },
+        { "surah": 22, "ayat": 75 },
+        { "surah": 23, "ayat": 24 },
+        { "surah": 25, "ayat": 21 },
+        { "surah": 25, "ayat": 22 },
+        { "surah": 25, "ayat": 25 },
+        { "surah": 34, "ayat": 40 },
+        { "surah": 35, "ayat": 1 },
+        { "surah": 37, "ayat": 150 },
+        { "surah": 38, "ayat": 71 },
+        { "surah": 38, "ayat": 73 },
+        { "surah": 39, "ayat": 75 },
+        { "surah": 41, "ayat": 14 },
+        { "surah": 41, "ayat": 30 },
+        { "surah": 42, "ayat": 5 },
+        { "surah": 43, "ayat": 19 },
+        { "surah": 43, "ayat": 53 },
+        { "surah": 43, "ayat": 60 },
+        { "surah": 47, "ayat": 27 },
+        { "surah": 53, "ayat": 27 },
+        { "surah": 66, "ayat": 6 },
+        { "surah": 70, "ayat": 4 },
+        { "surah": 74, "ayat": 31 },
+        { "surah": 97, "ayat": 4 }
+      ],
+      "QORIN DAN TUGASNYA": [
+        { "surah": 50, "ayat": 23 },
+        { "surah": 50, "ayat": 27 }
+      ]
     },
     "IBLIS, JIN DAN SYETAN": {
-      "TENTANG JIN": [],
-      "JIN DAN NABI ADAM AS.": [],
-      "JIN DAN MANUSIA": [],
-      "JIN DAN AL-QUR'AN": [],
-      "JIN DAN HARI KIAMAT": [],
-      "NABI SULAIMAN AS. DIBERIKAN PASUKAN DARI BANGSA JIN": [],
-      "ISTERI IMRAN BERDOA AGAR ANAK KETURUNANNYA DIHINDARI SYETAN": [],
-      "KATA-KATA JIN DALAM AL-QUR'AN": [],
-      "KATA-KATA SETAN DALAM AL-QUR'AN": [],
-      "KATA-KATA IBLIS DALAM AL-QUR'AN": []
+      "TENTANG JIN": [
+        {
+          "JIN DICIPTAKAN ALLAH DARI API": [
+            { "surah": 15, "ayat": 27 },
+            { "surah": 55, "ayat": 15 }
+          ]
+        },
+        {
+          "JIN DIPERINTAHKAN UNTUK MENYEMBAH ALLAH SEBAGAIMANA MANUSIA": [
+            { "surah": 51, "ayat": 56 }
+          ]
+        },
+        {
+          "JIN ADA YANG MUSLIM ADA YANG TIDAK": [
+            { "surah": 72, "ayat": 14 },
+            { "surah": 72, "ayat": 15 }
+          ]
+        },
+        {
+          "JIN ADA YANG SHOLEH DAN ADA YANG TIDAK": [
+            { "surah": 72, "ayat": 11 }
+          ]
+        },
+        {
+          "JIN TIDAK MENGETAHUI HAL YANG GHAIB": [{ "surah": 34, "ayat": 14 }]
+        },
+        {
+          "KEMAMPUAN MEREKA YANG DILUAR KEBIASAAN NAMUN ATAS IZIN ALLAH": [
+            { "surah": 27, "ayat": 38 },
+            { "surah": 27, "ayat": 39 }
+          ]
+        },
+        {
+          "JIN TIDAK MAMPU MENEMBUS LANGIT KECUALI DENGAN KEKUATAN": [
+            { "surah": 55, "ayat": 33 },
+            { "surah": 55, "ayat": 34 },
+            { "surah": 55, "ayat": 35 }
+          ]
+        }
+      ],
+      "JIN DAN NABI ADAM AS.": [
+        {
+          "PERINTAH UNTUK SUJUD KEPADA ADAM": [
+            { "surah": 2, "ayat": 34 },
+            { "surah": 17, "ayat": 61 },
+            { "surah": 18, "ayat": 50 },
+            { "surah": 20, "ayat": 116 }
+          ]
+        },
+        {
+          "PENOLAKAN IBLIS": [
+            { "surah": 2, "ayat": 34 },
+            { "surah": 17, "ayat": 61 },
+            { "surah": 18, "ayat": 50 },
+            { "surah": 20, "ayat": 116 }
+          ]
+        },
+        {
+          "ALASAN PENOLAKAN IBLIS": [
+            { "surah": 7, "ayat": 12 },
+            { "surah": 15, "ayat": 33 },
+            { "surah": 38, "ayat": 76 }
+          ]
+        },
+        {
+          "IBLIS DIUSIR": [
+            { "surah": 7, "ayat": 13 },
+            { "surah": 7, "ayat": 18 },
+            { "surah": 15, "ayat": 34 },
+            { "surah": 38, "ayat": 77 }
+          ]
+        },
+        {
+          "IBLIS MINTA KESEMPATAN MENGGODA SAMPAI KIAMAT": [
+            { "surah": 7, "ayat": 14 },
+            { "surah": 15, "ayat": 36 },
+            { "surah": 38, "ayat": 79 }
+          ]
+        },
+        {
+          "ALLAH MEMBERI KESEMPATAN ITU": [
+            { "surah": 7, "ayat": 15 },
+            { "surah": 15, "ayat": 37 },
+            { "surah": 38, "ayat": 80 }
+          ]
+        },
+        {
+          "IBLIS BERTEKAD MENGGODA MANUSIA DENGAN BERBAGAI CARA": [
+            { "surah": 4, "ayat": 119 },
+            { "surah": 7, "ayat": 16 },
+            { "surah": 7, "ayat": 17 },
+            { "surah": 7, "ayat": 18 },
+            { "surah": 15, "ayat": 39 }
+          ]
+        },
+        {
+          "IBLIS MENGGODA ADAM DAN HAWA": [
+            { "surah": 7, "ayat": 20 },
+            { "surah": 7, "ayat": 21 },
+            { "surah": 7, "ayat": 22 },
+            { "surah": 20, "ayat": 120 },
+            { "surah": 20, "ayat": 121 }
+          ]
+        }
+      ],
+      "JIN DAN MANUSIA": [
+        {
+          "IBLIS DAN SYETAN ADALAH MUSUH MANUSIA": [
+            { "surah": 2, "ayat": 168 },
+            { "surah": 2, "ayat": 208 },
+            { "surah": 6, "ayat": 142 },
+            { "surah": 7, "ayat": 22 },
+            { "surah": 12, "ayat": 5 },
+            { "surah": 18, "ayat": 50 },
+            { "surah": 20, "ayat": 117 },
+            { "surah": 28, "ayat": 15 },
+            { "surah": 35, "ayat": 6 },
+            { "surah": 36, "ayat": 60 },
+            { "surah": 43, "ayat": 62 }
+          ]
+        },
+        {
+          "PERINTAH UNTUK MOHON PERLINDUNGAN DARI SYETAN SEBELUM MEMBACA AL-QUR'AN": [
+            { "surah": 16, "ayat": 98 },
+            { "surah": 41, "ayat": 36 }
+          ]
+        },
+        {
+          "SYETAN TIDAK MEMPUNYAI KEKUATAN KE ATAS ORANG MU'MIN YANG TAWAKKAL": [
+            { "surah": 15, "ayat": 40 },
+            { "surah": 15, "ayat": 42 },
+            { "surah": 16, "ayat": 99 }
+          ]
+        },
+        {
+          "KEKUATAN SYETAN HANYA BAGI YANG MEMERCAYAINYA": [
+            { "surah": 16, "ayat": 100 }
+          ]
+        },
+        {
+          "NAJWA (PEMBICARAAN RAHASIA) ITU DARI SYETAN": [
+            { "surah": 58, "ayat": 10 }
+          ]
+        },
+        {
+          "MEREKA SUDAH MENYESATKAN MANUSIA": [
+            { "surah": 41, "ayat": 25 },
+            { "surah": 41, "ayat": 29 }
+          ]
+        },
+        {
+          "ORANG MUSYRIK ADA YANG MENYEMBAH JIN": [
+            { "surah": 6, "ayat": 100 },
+            { "surah": 34, "ayat": 40 },
+            { "surah": 34, "ayat": 41 },
+            { "surah": 72, "ayat": 6 }
+          ]
+        },
+        {
+          "DI ANTARA JIN ADA MENJADI MUSUH PARA NABI": [
+            { "surah": 6, "ayat": 112 }
+          ]
+        }
+      ],
+      "JIN DAN AL-QUR'AN": [
+        {
+          "BEBERAPA JIN MENDENGAR AL-QUR'AN DAN BERIMAN": [
+            { "surah": 72, "ayat": 1 },
+            { "surah": 72, "ayat": 2 }
+          ]
+        },
+        {
+          "DARI MEREKA ADA YANG MENYERU KEPADA YANG LAIN": [
+            { "surah": 46, "ayat": 29 },
+            { "surah": 46, "ayat": 30 },
+            { "surah": 46, "ayat": 31 },
+            { "surah": 46, "ayat": 32 }
+          ]
+        },
+        {
+          "MEREKA DITANTANG UNTUK MEMBUAT SEPERTI AL-QUR'AN": [
+            { "surah": 17, "ayat": 88 }
+          ]
+        }
+      ],
+      "JIN DAN HARI KIAMAT": [
+        {
+          "MEREKA PROTES HISAB DAN DIMASUKKAN KE NERAKA": [
+            { "surah": 6, "ayat": 128 },
+            { "surah": 7, "ayat": 38 },
+            { "surah": 7, "ayat": 39 },
+            { "surah": 7, "ayat": 179 }
+          ]
+        }
+      ],
+      "NABI SULAIMAN AS. DIBERIKAN PASUKAN DARI BANGSA JIN": [
+        { "surah": 21, "ayat": 81 },
+        { "surah": 21, "ayat": 82 },
+        { "surah": 27, "ayat": 17 },
+        { "surah": 34, "ayat": 12 },
+        { "surah": 34, "ayat": 13 },
+        { "surah": 38, "ayat": 37 },
+        { "surah": 38, "ayat": 38 }
+      ],
+      "ISTERI IMRAN BERDOA AGAR ANAK KETURUNANNYA DIHINDARI SYETAN": [
+        { "surah": 3, "ayat": 36 }
+      ],
+      "KATA-KATA JIN DALAM AL-QUR'AN": [
+        { "surah": 6, "ayat": 100 },
+        { "surah": 6, "ayat": 128 },
+        { "surah": 6, "ayat": 130 },
+        { "surah": 7, "ayat": 38 },
+        { "surah": 7, "ayat": 179 },
+        { "surah": 18, "ayat": 50 },
+        { "surah": 27, "ayat": 17 },
+        { "surah": 27, "ayat": 39 },
+        { "surah": 34, "ayat": 12 },
+        { "surah": 34, "ayat": 14 },
+        { "surah": 34, "ayat": 41 },
+        { "surah": 41, "ayat": 25 },
+        { "surah": 41, "ayat": 29 },
+        { "surah": 46, "ayat": 18 },
+        { "surah": 46, "ayat": 29 },
+        { "surah": 51, "ayat": 56 },
+        { "surah": 55, "ayat": 33 },
+        { "surah": 72, "ayat": 1 },
+        { "surah": 72, "ayat": 6 }
+      ],
+      "KATA-KATA SETAN DALAM AL-QUR'AN": [
+        { "surah": 2, "ayat": 36 },
+        { "surah": 2, "ayat": 168 },
+        { "surah": 2, "ayat": 208 },
+        { "surah": 2, "ayat": 268 },
+        { "surah": 2, "ayat": 275 },
+        { "surah": 3, "ayat": 36 },
+        { "surah": 3, "ayat": 155 },
+        { "surah": 3, "ayat": 175 },
+        { "surah": 4, "ayat": 38 },
+        { "surah": 4, "ayat": 60 },
+        { "surah": 4, "ayat": 76 },
+        { "surah": 4, "ayat": 83 },
+        { "surah": 4, "ayat": 119 },
+        { "surah": 4, "ayat": 120 },
+        { "surah": 5, "ayat": 90 },
+        { "surah": 5, "ayat": 91 },
+        { "surah": 6, "ayat": 43 },
+        { "surah": 6, "ayat": 68 },
+        { "surah": 6, "ayat": 142 },
+        { "surah": 7, "ayat": 20 },
+        { "surah": 7, "ayat": 22 },
+        { "surah": 7, "ayat": 27 },
+        { "surah": 7, "ayat": 175 },
+        { "surah": 7, "ayat": 200 },
+        { "surah": 7, "ayat": 201 },
+        { "surah": 8, "ayat": 11 },
+        { "surah": 8, "ayat": 48 },
+        { "surah": 12, "ayat": 5 },
+        { "surah": 12, "ayat": 42 },
+        { "surah": 12, "ayat": 100 },
+        { "surah": 14, "ayat": 22 },
+        { "surah": 16, "ayat": 63 },
+        { "surah": 16, "ayat": 98 },
+        { "surah": 17, "ayat": 27 },
+        { "surah": 17, "ayat": 53 },
+        { "surah": 17, "ayat": 64 },
+        { "surah": 18, "ayat": 63 },
+        { "surah": 19, "ayat": 44 },
+        { "surah": 20, "ayat": 120 },
+        { "surah": 22, "ayat": 52 },
+        { "surah": 22, "ayat": 53 },
+        { "surah": 24, "ayat": 21 },
+        { "surah": 25, "ayat": 29 },
+        { "surah": 27, "ayat": 24 },
+        { "surah": 28, "ayat": 15 },
+        { "surah": 29, "ayat": 38 }
+      ],
+      "KATA-KATA IBLIS DALAM AL-QUR'AN": [
+        { "surah": 2, "ayat": 34 },
+        { "surah": 7, "ayat": 11 },
+        { "surah": 15, "ayat": 31 },
+        { "surah": 15, "ayat": 32 },
+        { "surah": 17, "ayat": 61 },
+        { "surah": 18, "ayat": 50 },
+        { "surah": 20, "ayat": 116 },
+        { "surah": 26, "ayat": 95 },
+        { "surah": 34, "ayat": 20 },
+        { "surah": 38, "ayat": 74 },
+        { "surah": 38, "ayat": 75 }
+      ]
     },
     "KUBUR": {
-      "PADA HARI KIAMAT PENGHUNI KUBUR AKAN DIBANGKITKAN": [],
-      "MANUSIA TIDAK BISA MENDENGAR APA YANG DIKUBUR": [],
-      "KUBUR SEBAGAI PERINGATAN": [],
-      "SETELAH DIBANGKITKAN DARI KUBUR MANUSIA AKAN MELIHAT HASIL AMALNYA": []
+      "PADA HARI KIAMAT PENGHUNI KUBUR AKAN DIBANGKITKAN": [
+        { "surah": 22, "ayat": 7 },
+        { "surah": 82, "ayat": 4 },
+        { "surah": 100, "ayat": 9 }
+      ],
+      "MANUSIA TIDAK BISA MENDENGAR APA YANG DIKUBUR": [
+        { "surah": 35, "ayat": 22 }
+      ],
+      "KUBUR SEBAGAI PERINGATAN": [{ "surah": 60, "ayat": 13 }],
+      "SETELAH DIBANGKITKAN DARI KUBUR MANUSIA AKAN MELIHAT HASIL AMALNYA": [
+        { "surah": 99, "ayat": 6 },
+        { "surah": 99, "ayat": 7 },
+        { "surah": 99, "ayat": 8 }
+      ]
     }
   },
   "ALAM AKHIRAT": {
